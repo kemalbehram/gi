@@ -151,11 +151,13 @@
     </footer>
         <wrapper>
                 <div class="dws">
+                    <a href="{{route('show.news.index')}}">
                     <div class="pulse">
                         <div class="bloc"></div>
                         <div class="phone"><i class="fa fa-clone " aria-hidden="true"></i></div>
                         <div class="text">last news</div>
                     </div>
+                    </a>
                 </div>
         </wrapper>
         <div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
