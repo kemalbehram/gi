@@ -17,6 +17,7 @@
 </head>
 
 <body class="nk-body body-wider bg-theme mode-onepage">
+
 <div class="nk-wrap">
     <header class="nk-header page-header is-transparent is-sticky is-dark" id="header">
         <div class="header-main">

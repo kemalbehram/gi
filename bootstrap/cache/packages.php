@@ -53,13 +53,6 @@
       0 => 'Kalnoy\\Nestedset\\NestedSetServiceProvider',
     ),
   ),
-  'klisl/laravel-statistics' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Klisl\\Statistics\\StatisticsServiceProvider',
-    ),
-  ),
   'laracasts/flash' => 
   array (
     'providers' => 
@@ -76,18 +69,6 @@
     'providers' => 
     array (
       0 => 'Laravel\\Tinker\\TinkerServiceProvider',
-    ),
-  ),
-  'laravelcollective/html' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Collective\\Html\\HtmlServiceProvider',
-    ),
-    'aliases' => 
-    array (
-      'Form' => 'Collective\\Html\\FormFacade',
-      'Html' => 'Collective\\Html\\HtmlFacade',
     ),
   ),
   'nesbot/carbon' => 
@@ -113,6 +94,13 @@
     'aliases' => 
     array (
       'QrCode' => 'SimpleSoftwareIO\\QrCode\\Facades\\QrCode',
+    ),
+  ),
+  'spatie/laravel-cookie-consent' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Spatie\\CookieConsent\\CookieConsentServiceProvider',
     ),
   ),
   'stevebauman/location' => 

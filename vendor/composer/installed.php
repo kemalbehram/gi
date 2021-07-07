@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => 'd3de42811fd3a332a5805a21cdc84fb745db8547',
+    'reference' => '935c337551034fccc6e7e9f4d368fc0d3b48c092',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -428,15 +428,6 @@
       ),
       'reference' => '789a70bce94a7c3bd206fb05fa4b747cf27acbe2',
     ),
-    'klisl/laravel-statistics' => 
-    array (
-      'pretty_version' => '2.2',
-      'version' => '2.2.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '42fc4fc82b781d38fa67c8e04ba50fd0c98f0d3a',
-    ),
     'kodova/hamcrest-php' => 
     array (
       'replaced' => 
@@ -473,12 +464,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => 'd3de42811fd3a332a5805a21cdc84fb745db8547',
+      'reference' => '935c337551034fccc6e7e9f4d368fc0d3b48c092',
     ),
     'laravel/tinker' => 
     array (
@@ -488,15 +479,6 @@
       array (
       ),
       'reference' => 'ad571aacbac1539c30d480908f9d0c9614eaf1a7',
-    ),
-    'laravelcollective/html' => 
-    array (
-      'pretty_version' => 'v5.8.1',
-      'version' => '5.8.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '3a1c9974ea629eed96e101a24e3852ced382eb29',
     ),
     'league/flysystem' => 
     array (
@@ -772,8 +754,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -926,6 +908,15 @@
       array (
       ),
       'reference' => '90b2282dd29be1e52565e9832dc23af41610ea07',
+    ),
+    'spatie/laravel-cookie-consent' => 
+    array (
+      'pretty_version' => '2.6.3',
+      'version' => '2.6.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6a920a441783a50d7c95d08b3ae9189b149b259f',
     ),
     'stevebauman/location' => 
     array (
