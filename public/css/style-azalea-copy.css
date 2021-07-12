@@ -879,8 +879,6 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .nk-df-mask-d2, .mask-d2:before, .mask-d2-bg { background-image: url(../images/mask-d2.svg); }
 
-.nk-df-mask-e, .mask-e:before, .mask-e-bg { background-image: url(../images/mask-e.svg); }
-
 .ie .nk-df-mask-e, .ie .mask-e:before, .ie .mask-e-bg { background-image: url(../images/mask-e.png); }
 
 .nk-df-mask-f, .mask-f:before, .mask-f-bg { background-image: url(../images/mask-f.svg); }

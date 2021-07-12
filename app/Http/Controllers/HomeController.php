@@ -37,6 +37,8 @@ class HomeController extends Controller
         $this->url = LocaleMiddleware::getLocale();
         if($this->url == 'ru'){
             return view('ru/app/home', compact('news'));
+        }elseif($this->url == 'uk'){
+            return view('uk/app/home', compact('news'));
         }else{
             return view('en/app/home', compact('news'));
         }
@@ -47,25 +49,13 @@ class HomeController extends Controller
         $this->url = LocaleMiddleware::getLocale();
         if($this->url == 'ru'){
             $page = Project::where('slag',$slag)->first();
-            return view('ru/app/'.$page->view, compact('regions','page','comoanies'));
+            return view('ru/app/'.$page->view);
+        }elseif($this->url == 'uk'){
+            $page = Project::where('slag',$slag)->first();
+            return view('uk/app/'.$page->view);
         }else{
             $page = Project::where('slag',$slag)->first();
-            return view('en/app/'. $page->view, compact('regions','page','comoanies'));
-        }
-
-    }
-
-    public function pageInTown($slag, $slag1){
-        $this->url = LocaleMiddleware::getLocale();
-        $comoanies = Company::orderBy('id')->getModels();
-        $regions = Region::orderBy('sort')->getModels();
-        $region = Region::where('slag',$slag1)->first();
-        if($this->url == 'ru'){
-            $page = Project::where('slag',$slag)->first();
-            return view('ru/app/'.$page->view, compact('regions','region','page','comoanies'));
-        }else{
-            $page = Project::where('slag',$slag)->first();
-            return view('uk/app/'. $page->view, compact('regions','region','page','comoanies'));
+            return view('en/app/'. $page->view);
         }
 
     }

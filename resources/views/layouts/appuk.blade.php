@@ -63,31 +63,31 @@
                         <nav class="header-menu" id="header-menu">
                             <ul class="menu">
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('home')}}">ГЛАВНАЯ</a>
+                                    <a class="" href="{{route('home')}}">ГОЛОВНА</a>
                                 </li>
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('page','about')}}">О НАС</a>
+                                    <a class="" href="{{route('page','about')}}">ПРО НАС</a>
                                 </li>
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('page','proposal')}}">СОТРУДНИЧЕСТВО</a>
+                                    <a class="" href="{{route('page','proposal')}}">СПІВПРАЦЯ</a>
                                 </li>
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('show.news.index')}}">НОВОСТИ</a>
+                                    <a class="" href="{{route('show.news.index')}}">НОВИНИ</a>
                                 </li>
                             </ul>
                             <ul class="menu-btns">
-                                <li><a href="#" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"><span>ВОЙТИ</span></a></li>
+                                <li><a href="#" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"><span>УВІЙТИ</span></a></li>
                             </ul>
                             <ul class="menu-btns" >
-                                <li><a href="#" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"  style="background-color: #dabd75!important; "><span >зарегистрироваться</span></a></li>
+                                <li><a href="#" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"  style="background-color: #dabd75!important; "><span >ЗАРЕЄСТРУВАТИСЬ</span></a></li>
                             </ul>
                         </nav>
                     </div><!-- .header-navbar @e -->
                 </div>
             </div>
         </div><!-- .header-main @e -->
-    @include('flash::message')
-    @yield('content')
+@include('flash::message')
+@yield('content')
 </body>
 
 <footer class="nk-footer bg-theme-grad has-ovm">
@@ -99,30 +99,30 @@
                 <div class="row justify-content-between">
                     <div class="col-sm-5 mb-sm-0 col-6">
                         <div class="wgs wgs-menu">
-                            <h6 class="wgs-title"  style="color: #dabd75;">Компания</h6>
+                            <h6 class="wgs-title"  style="color: #dabd75;">Компанія</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links">
-                                    <li><a href="{{route('page','proposal')}}">Сотрудничество</a></li>
-                                    <li><a href="{{route('show.news.index')}}">Новости</a></li>
-                                    <li><a href="{{route('page','about')}}">Благотворительность</a></li>
+                                    <li><a href="{{route('page','proposal')}}">Співпраця</a></li>
+                                    <li><a href="{{route('show.news.index')}}">Новини</a></li>
+                                    <li><a href="{{route('page','about')}}">Благодійність</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div><!-- .col -->
                     <div class="col-md-5 col-sm-4 mb-sm-0 col-6">
                         <div class="wgs wgs-menu">
-                            <h6 class="wgs-title"  style="color: #dabd75;">Документы</h6>
+                            <h6 class="wgs-title"  style="color: #dabd75;">Документи</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links">
-                                    <li><a href="{{route('page','pol')}}">Положение о конфидециальности</a></li>
-                                    <li><a href="#">Соглашения публичной оферты</a></li>
+                                    <li><a href="{{route('page','pol')}}">Положення про конфіденційність</a></li>
+                                    <li><a href="#">Угоди публічної оферти</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div><!-- .col -->
                     <div class="col-sm-2 mb-sm-0 col-6">
                         <div class="wgs wgs-menu">
-                            <h6 class="wgs-title"  style="color: #dabd75;">Отслеживать</h6>
+                            <h6 class="wgs-title"  style="color: #dabd75;">Відслідковувати</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links" style="">
                                     <a href="#" style="padding: 10px;"><em class="fab fa-instagram"></em></a>
@@ -147,9 +147,9 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="copyright-text">
                         <ul class="d-flex justify-content-between align-items-center flex-wrap flex-md-nowrap">
-                            <li><a href="#">Личный кабинет</a></li>
+                            <li><a href="#">Особистий кабінет</a></li>
 
-                            <li><p>Global incom. Все права защищены © 2020</p></li>
+                            <li><p>Globinc. Всі права захищені © 2020</p></li>
                         </ul>
                     </div>
                 </div>
@@ -157,28 +157,29 @@
         </div>
     </div>
     <div class="nk-ovm shape-b"></div>
+    <div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/bitcoin2.png')}}"></span></div>
 </footer>
-        <wrapper>
-            <div class="dws">
-                <a href="{{route('show.news.index')}}">
-                <div class="pulse">
-                    <div class="bloc"></div>
-                    <div class="phone"><i class="fa fa-clone " aria-hidden="true"></i></div>
-                    <div class="text">последние новости</div>
-                </div>
-                </a>
+<wrapper>
+    <div class="dws">
+        <a href="{{route('show.news.index')}}">
+            <div class="pulse">
+                <div class="bloc"></div>
+                <div class="phone"><i class="fa fa-clone " aria-hidden="true"></i></div>
+                <div class="text">остані новини</div>
             </div>
-        </wrapper>
-        <div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
-            <div class="ovm-line"></div>
-        </div>
-        <div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/bitcoin2.png')}}"></span></div>
-        <script src="{{ asset('js/classie.js') }}"></script>
-        <script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>
-        <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
-        @yield('script')
-        <script src="{{ asset('js/scripts.js?ver=1930') }}"></script>
-        <script src="{{ asset('js/charts.js') }}"></script>
-        <script src="{{ asset('js/toastr.examples.js?ver=1930')}}"></script>
+        </a>
+    </div>
+</wrapper>
+<div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
+    <div class="ovm-line"></div>
+</div>
+<script src="{{ asset('js/cal.js') }}"></script>
+<script src="{{ asset('js/classie.js') }}"></script>
+<script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>
+<script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
+@yield('script')
+<script src="{{ asset('js/scripts.js?ver=1930') }}"></script>
+<script src="{{ asset('js/charts.js') }}"></script>
+<script src="{{ asset('js/toastr.examples.js?ver=1930')}}"></script>
 
 </html>

@@ -1,4 +1,4 @@
-@extends('layouts.appru')
+@extends('layouts.appuk')
 @section('title', 'Global incom - Passive income on the crypto exchange.')
 @section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global Money, your way to success.')
 @section('keywords', 'Passive income | Global incom')
@@ -17,21 +17,22 @@
                     <div class="col-xl-8 col-lg-6 col-sm-10 text-center text-lg-left">
                         <div class="banner-caption">
                             <div class="section-head section-head-s2" style="padding-bottom: 10px;">
-                                <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; font-weight: 300;"> incom</span></h1>
-                                <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style="padding-bottom: 10px;">путь к успеху!</h3>
+                                <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Globinc</span></h1>
+                                <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style="padding-bottom: 10px;">шлях до успіху!</h3>
                             </div>
-                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Зарабатывай на разнице стоимости крипто валют на мировом рынке, используя технологические разработки компании <span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> в области AI </p>
+                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Заробляй на різниці вартості крипто валют на світовому ринку, використовуючи технологічні розробки компанії <span style="color: white; font-weight: 900;">Globinc</span> в області AI. </p>
                             <div class="cpn-action" >
-                                <a class="btn btn-primary btn-round " href="#" style="font-size:15px; margin-bottom: 10px;">зарегистрироваться</a>
+                                <a class="btn btn-primary btn-round " href="#" style="font-size:15px; margin-bottom: 10px;">зареєструватися</a>
+                                <a class="btn btn-primary btn-thin btn-outline btn-auto btn-primary btn-round no-change " href="#" style="font-size:15px; margin-bottom: 10px;">скачати презентацію</a>
                             </div>
-                            <h1 class="title title-xl title-glob" title="В БУДУЩЕЕ" style=" ">Прибыль в месяц от<span  style="font-weight: 900; color: #dabd75; font-size: 69px; ">  30%</span></h1>
+                            <h1 class="title title-xl title-glob" title="В БУДУЩЕЕ" style=" ">Прибуток в місяць від<span  style="font-weight: 900; color: #dabd75; font-size: 69px; ">  30%</span></h1>
                         </div>
                     </div><!-- .col -->
                 </div><!-- .row -->
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
-                        <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Скоро старт проекта</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/07/29" data-day-text="Дней"   data-hour-text="Часов" data-min-text="Минут" data-sec-text="Секунд"></div>
+                        <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Скоро старт проекту</h6>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/07/29" data-day-text="Днів"   data-hour-text="Годин" data-min-text="Хвилин" data-sec-text="Секунд"></div>
                     </div>
                 </div>
             </div>
@@ -75,9 +76,9 @@
                 <div class="row justify-content-lg-between justify-content-center align-items-center gutter-vr-30px" style="padding-top: 20px;">
                     <div class="col-lg-5">
                         <div class="nk-block-text text-center text-lg-left">
-                            <h2 class="title title-thin title-dark">ВИДЕО ОБЗОР ПРОЕКТА</h2>
+                            <h2 class="title title-thin title-dark">ВІДЕО ОГЛЯД ПРОЕКТУ</h2>
                         </div>
-                        <p style="font-size: 1.4rem; color: #dabd75;">С командой <span style="font-weight: 900; color: #faf8f8;">Global</span><span style="color: #f5f1f1;"> incom</span> кризиса не существует</p>
+                        <p style="font-size: 1.4rem; color: #dabd75;">З командою <span style="font-weight: 900; color: #faf8f8;">Globinc</span> кризи не існує</p>
                     </div>
                     <div class="col-lg-6 col-mb-10 order-lg-last">
                         <div class="nk-block-img">
@@ -100,8 +101,8 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="Global Package">ТАРИФНЫЕ ПАКЕТЫ</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Инвестируй вместе с нами. <span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> это твой шанс на успех и финансовою свободу.</p>
+                            <h2 class="title title-xl" title="Global Package">ТАРИФНІ ПАКЕТИ</h2>
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Інвестуй разом з нами. <span style="color: white; font-weight: 900;">Globinc</span> - це твій шанс на успіх і фінансову незалежність.</p>
                         </div>
                     </div>
                 </div>
@@ -115,31 +116,31 @@
                                     <img class="shadow rounded" src="{{asset('../images/s1.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL START</div>
                                     <div class="token-stage-date">
-                                        <h6>Минимальная сумма <span  class="token-stage-bonus">$100</span></h6>
+                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$100</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Максимальная сумма <span  class="token-stage-bonus">$999</span></h6>
+                                        <h6>Максимальна сума <span  class="token-stage-bonus">$999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Количество покупок <span  class="token-stage-bonus">2</span></h6>
+                                        <h6>Кількість покупок <span  class="token-stage-bonus">2</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Доход в день <span  class="token-stage-bonus">1%</span></h6>
+                                        <h6>Дохід в день <span  class="token-stage-bonus">1%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Сумма к снятию <span  class="token-stage-bonus">70%</span></h6>
+                                        <h6>Сума до зняття <span  class="token-stage-bonus">70%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Автореинвест <span  class="token-stage-bonus">30%</span></h6>
+                                        <h6>Автореінвест <span  class="token-stage-bonus">30%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Возврат депозита в конце срока <span  class="token-stage-bonus">нет</span></h6>
+                                        <h6>Повернення депозиту в кінці терміну <span  class="token-stage-bonus">ні</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Начало работы <span  class="token-stage-bonus">18 дней</span></h6>
+                                        <h6>Початок роботи<span  class="token-stage-bonus">18 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
+                                        <a href="#" class="btn btn-round btn-primary ">ІНВЕСТУВАТИ</a>
                                     </div>
                                 </div>
                             </div>
@@ -148,31 +149,31 @@
                                     <img class="shadow rounded" src="{{asset('../images/s3.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL BUSINESS</div>
                                     <div class="token-stage-date">
-                                        <h6>Минимальная сумма <span  class="token-stage-bonus">$1000</span></h6>
+                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$1000</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Максимальная сумма <span  class="token-stage-bonus">$4999</span></h6>
+                                        <h6>Максимальна сума <span  class="token-stage-bonus">$4999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Количество покупок <span  class="token-stage-bonus">неограниченно</span></h6>
+                                        <h6>Кількість покупок <span  class="token-stage-bonus">необмежено</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Доход в день <span  class="token-stage-bonus">1%</span></h6>
+                                        <h6>Дохід в день <span  class="token-stage-bonus">1%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Сумма к снятию <span  class="token-stage-bonus">80%</span></h6>
+                                        <h6>Сума до зняття<span  class="token-stage-bonus">80%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Автореинвест <span  class="token-stage-bonus">20%</span></h6>
+                                        <h6>Автореінвест <span  class="token-stage-bonus">20%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Возврат депозита в конце срока <span  class="token-stage-bonus">нет</span></h6>
+                                        <h6>Повернення депозиту в кінці терміну <span  class="token-stage-bonus">ні</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Начало работы <span  class="token-stage-bonus">12 дней</span></h6>
+                                        <h6>Початок роботи <span  class="token-stage-bonus">12 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
+                                        <a href="#" class="btn btn-round btn-primary ">ІНВЕСТУВАТИ</a>
                                     </div>
                                 </div>
                             </div>
@@ -181,31 +182,31 @@
                                     <img class="shadow rounded" src="{{asset('../images/s2.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL VIP</div>
                                     <div class="token-stage-date">
-                                        <h6>Минимальная сумма <span  class="token-stage-bonus">$5000</span></h6>
+                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$5000</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Максимальная сумма <span  class="token-stage-bonus">неограниченно</span></h6>
+                                        <h6>Максимальна сума <span  class="token-stage-bonus">необмежено</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Количество покупок <span  class="token-stage-bonus">неограниченно</span></h6>
+                                        <h6>Кількість покупок <span  class="token-stage-bonus">необмежено</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Доход в день <span  class="token-stage-bonus">1%</span></h6>
+                                        <h6>Дохід в день <span  class="token-stage-bonus">1%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Сумма к снятию <span  class="token-stage-bonus">90%</span></h6>
+                                        <h6>Сума до зняття <span  class="token-stage-bonus">90%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Автореинвест <span  class="token-stage-bonus">10%</span></h6>
+                                        <h6>Автореінвест <span  class="token-stage-bonus">10%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Возврат депозита в конце срока <span  class="token-stage-bonus">нет</span></h6>
+                                        <h6>Повернення депозиту в кінці терміну <span  class="token-stage-bonus">ні</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Начало работы <span  class="token-stage-bonus">8 дней</span></h6>
+                                        <h6>Початок роботи <span  class="token-stage-bonus">8 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
+                                        <a href="#" class="btn btn-round btn-primary ">ІНВЕСТУВАТИ</a>
                                     </div>
                                 </div>
                             </div>
@@ -232,28 +233,28 @@
                         <div class="mt-profit-calc-sec__second mnh-100">
                             <div class="mt-profit-calc-sec__second-content">
                                 <div class="mt-apc">
-                                    <h5 class="mt-apc__title">Условия партнёрской программы</h5>
+                                    <h5 class="mt-apc__title">Умови партнерської програми</h5>
                                     <div class="mt-apc__list">
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k">Тарифный пакет
+                                            <div class="mt-apc__li-k">Тарифний пакет
                                             </div>
                                             <div class="mt-apc__li-v" data-profit-calc="direct_bonus" id="packages">Global Start</div>
                                         </div>
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k">Сумма к снятию</div>
+                                            <div class="mt-apc__li-k">Сума до зняття</div>
                                             <div class="mt-apc__li-v" id="sumToWithdraw">70%</div>
                                         </div>
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k">Начало работы</div>
+                                            <div class="mt-apc__li-k">Початок роботи</div>
                                             <div class="mt-apc__li-v" data-profit-calc="binary_bonus"><span  id="beginningOfWork">18</span> дней</div>
                                         </div>
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k">Минимальная сумма</div>
+                                            <div class="mt-apc__li-k">Мінімальна сума</div>
                                             <div class="mt-apc__li-v" id="minimumSum">$100</div>
                                         </div>
                                         <br>
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k" style="font-weight: bold; font-size: 14px!important;">Общий результат за 365 дней</div>
+                                            <div class="mt-apc__li-k" style="font-weight: bold; font-size: 14px!important;">Загальний результат за 365 днів</div>
                                             <div class="mt-apc__li-v" style="font-weight: bold; font-size: 20px!important; color: #dabd75 !important">$<span id="sum4" style="font-weight: bold; font-size: 16px!important; color: #dabd75 !important">1</span></div>
                                         </div>
                                     </div>
@@ -300,7 +301,7 @@
                                             <div class="c-profit-calc__result c-profit-calc__result--eq">
                                                 <div class="c-profit-calc-kv has-active-bg-color" style="width: 100%;">
                                                     <div class="c-profit-calc-kv__v" data-profit-calc="total_profit"  id="rs-bullet" >100</div>
-                                                    <div class="c-profit-calc-kv__k"> Сумма <br>инвестиций</div>
+                                                    <div class="c-profit-calc-kv__k"> Сума <br>інвестицій</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -308,7 +309,7 @@
                                             <div class="c-profit-calc__result c-profit-calc__result--eq">
                                                 <div class="c-profit-calc-kv has-active-bg-color">
                                                     <div class="c-profit-calc-kv__v" data-profit-calc="total_profit">$<span id="sum2">1</span></div>
-                                                    <div class="c-profit-calc-kv__k">Прибыль <br> +1% в день</div>
+                                                    <div class="c-profit-calc-kv__k">Прибуток <br> +1% в день</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -316,7 +317,7 @@
                                 </div>
                             </div>
                             <div class="c-profit-calc__actions">
-                                <a href="#" class="btn btn-round btn-primary ">Инвестировать</a>
+                                <a href="#" class="btn btn-round btn-primary ">ІНВЕСТУВАТИ</a>
                             </div>
                         </div>
                     </div>
@@ -671,22 +672,22 @@
                             <div class="nk-block">
                                 <div class="has-carousel carousel-nav-center" data-items="1" data-navs="true">
                                     @foreach($news as $new)
-                                    <div class="item pb-2">
-                                        <div class="blog blog-s2">
-                                            <div class="blog-content blog-content-inline">
-                                                <div class="blog-text">
-                                                    <h5 class="blog-title title-sm">{{ \Illuminate\Support\Str::limit($new->title, 50, $end='...') }}</h5>
+                                        <div class="item pb-2">
+                                            <div class="blog blog-s2">
+                                                <div class="blog-content blog-content-inline">
+                                                    <div class="blog-text">
+                                                        <h5 class="blog-title title-sm">{{ \Illuminate\Support\Str::limit($new->title, 50, $end='...') }}</h5>
+                                                    </div>
+                                                    <div class="blog-action">
+                                                        <a href="{{route('show.news', $new)}}" class="link"><span> Подробнее</span> <em class="link-icon link-icon-sm fas fa-angle-right"></em></a>
+                                                    </div>
                                                 </div>
-                                                <div class="blog-action">
-                                                    <a href="{{route('show.news', $new)}}" class="link"><span> Подробнее</span> <em class="link-icon link-icon-sm fas fa-angle-right"></em></a>
+                                                <div class="bg-image round" data-overlay="theme" data-opacity="85">
+                                                    <img src="{{asset('../images/azalea/news-hr-a.jpg')}}" alt="">
                                                 </div>
                                             </div>
-                                            <div class="bg-image round" data-overlay="theme" data-opacity="85">
-                                                <img src="{{asset('../images/azalea/news-hr-a.jpg')}}" alt="">
-                                            </div>
+                                            @endforeach
                                         </div>
-                                        @endforeach
-                                    </div>
                                 </div>
                             </div>
                         </div><!-- .col -->

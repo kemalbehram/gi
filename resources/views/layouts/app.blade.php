@@ -11,7 +11,7 @@
     <meta name="keywords" content="@yield('keywords')" />
     <link rel="stylesheet" href="{{ asset('css/vendor.bundle.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style-azalea-copy.css') }}" id="changeTheme">
-    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">
+{{--    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">--}}
     <link rel="stylesheet" href="{{ asset('css/cal.css') }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
@@ -28,18 +28,28 @@
                             <h3 style=""><img style="" src="{{asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Global incom</span><span  style="color: white; font-weight: 300;"></span></h3>
                         </a>
                     </div>
-                    @if(App\Http\Middleware\LocaleMiddleware::getLocale() === null)
+                    @if (App\Http\Middleware\LocaleMiddleware::getLocale() === null )
                         <div class="language-switcher language-switcher-s3 toggle-wrap">
                             <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'en'])}}">En</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
                                 <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'uk'])}}">Uk</a></li>
                             </ul>
                         </div>
-                    @else
+                    @elseif(App\Http\Middleware\LocaleMiddleware::getLocale() === 'ru' )
                         <div class="language-switcher language-switcher-s3 toggle-wrap">
                             <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
                                 <li><a href="{{route('setlocale', ['lang' => 'en'])}}">En</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'uk'])}}">Uk</a></li>
+                            </ul>
+                        </div>
+                    @else
+                        <div class="language-switcher language-switcher-s3 toggle-wrap">
+                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'uk'])}}">Uk</a>
+                            <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
+                                <li><a href="{{route('setlocale', ['lang' => 'en'])}}">En</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a></li>
                             </ul>
                         </div>
                     @endif
@@ -164,7 +174,7 @@
         <div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
             <div class="ovm-line"></div>
         </div>
-    <div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/len.png')}}"></span></div>
+    <div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/bitcoin2.png')}}"></span></div>
     <script src="{{ asset('js/cal.js') }}"></script>
     <script src="{{ asset('js/classie.js') }}"></script>
     <script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>

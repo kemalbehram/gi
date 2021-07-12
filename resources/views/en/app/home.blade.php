@@ -11,7 +11,7 @@
                 <div class="row align-items-center justify-content-center justify-content-lg-between gutter-vr-30px">
                     <div class="col-lg-4 order-lg-last">
                         <div class="banner-gfx banner-gfx-auto">
-                            <img src="{{asset('../images/bitcoin.png')}}" alt="header" style="border-radius: 50%; box-shadow: 14px 14px 69px -10px rgb(109 219 187);">
+                            <img src="{{asset('../images/bitcoin2.png')}}" alt="header" style="border-radius: 50%; box-shadow: 14px 14px 69px -10px rgb(109 219 187);">
                         </div>
                     </div><!-- .col -->
                     <div class="col-xl-8 col-lg-6 col-sm-10 text-center text-lg-left">
@@ -31,7 +31,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
                         <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Starting the project wery soon</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/07/12" data-day-text="Days" data-Hours-text="Hours" data-min-text="Minutes" data-sec-text="Seconds"></div>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/07/29" data-day-text="Days" data-Hours-text="Hours" data-min-text="Minutes" data-sec-text="Seconds"></div>
                     </div>
                 </div>
             </div>
@@ -72,29 +72,10 @@
                         }
                     </script>
                 </div>
-{{--                <div class="row justify-content-lg-between justify-content-center align-items-center gutter-vr-30px" style="padding-top: 20px;">--}}
-{{--                    <div class="col-lg-5">--}}
-{{--                        <div class="nk-block-text text-center text-lg-left">--}}
-{{--                            <h2 class="title title-thin title-dark">VIDEO OVERVIEW OF THE PROJECT</h2>--}}
-{{--                        </div>--}}
-{{--                        <p style="font-size: 1.4rem; color: #dabd75;">There is no crisis with the. <span style="font-weight: 900; color: #faf8f8;">Global</span><span style="color: #f5f1f1;"> incom</span> team</p>--}}
-{{--                    </div>--}}
-{{--                    <div class="col-lg-6 col-mb-10 order-lg-last">--}}
-{{--                        <div class="nk-block-img">--}}
-{{--                            <a href="https://www.youtube.com/watch?v=Fm1pQZxbiSs" class="nk-block-video-play  video-popup btn-play btn-play-s3">--}}
-{{--                                <svg class="btn-play-icon-s2" viewBox="0 0 24 34"><path fill-rule="evenodd" d="M0.212,32.552 C0.427,32.851 0.769,33.010 1.117,33.010 C1.337,33.010 1.559,32.947 1.752,32.814 L23.521,17.879 C23.816,17.678 23.991,17.350 23.991,16.998 C23.991,16.646 23.816,16.319 23.521,16.115 L1.752,1.181 C1.415,0.950 0.972,0.922 0.606,1.107 C0.240,1.292 0.010,1.661 0.010,2.064 L0.010,22.480 C0.010,23.076 0.506,23.558 1.116,23.558 C1.727,23.558 2.222,23.076 2.222,22.480 L2.222,4.142 L20.963,16.998 L0.479,31.049 C-0.020,31.393 -0.140,32.066 0.212,32.552 Z"></path></svg>--}}
-{{--                            </a>--}}
-{{--                            <img src="{{asset('../images/app-screens/sc-large-a2.png')}}" alt="img" style="padding: 10px;">--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
             </div>
         </div>
     </div>
-    <div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
-        <div class="ovm-line"></div>
-        <div class="nk-ovm shape-b"></div>
-    </div>
+    <div class="nk-ovm mask-e mask-contain-bottom shape-z"></div>
     </header>
     <main class="nk-pages tc-light">
         <section class="section" id="mvp">
