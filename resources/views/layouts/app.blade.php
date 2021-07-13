@@ -25,7 +25,7 @@
                 <div class="header-wrap">
                     <div class="header-logo logo">
                         <a href="{{route('home')}}" class="logo-link">
-                            <h3 style=""><img style="" src="{{asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Global incom</span><span  style="color: white; font-weight: 300;"></span></h3>
+                            <h3 style=""><img style="" src="{{asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Globinc</span><span  style="color: white; font-weight: 300;"></span></h3>
                         </a>
                     </div>
                     @if (App\Http\Middleware\LocaleMiddleware::getLocale() === null )
@@ -77,10 +77,10 @@
                                 </li>
                             </ul>
                             <ul class="menu-btns">
-                                <li><a href="#" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"><span>Login</span></a></li>
+                                <li><a href="https://my.globinc.com/auth/login" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"><span>Login</span></a></li>
                             </ul>
                             <ul class="menu-btns" >
-                                <li><a href="#" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"  style="background-color: #dabd75!important; "><span >Registration</span></a></li>
+                                <li><a href="https://my.globinc.com/auth/register" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"  style="background-color: #dabd75!important; "><span >Registration</span></a></li>
                             </ul>
                         </nav>
                     </div><!-- .header-navbar @e -->
@@ -142,7 +142,7 @@
                     <div class="col-lg-6 col-md-3 col-sm-4">
                         <div class="header-logo logo">
                             <a href="{{route('home')}}" class="logo-link">
-                                <h3 style=""><img style="" src="{{ asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Global incom</span><span  style="color: white; font-weight: 300;"></span></h3>
+                                <h3 style=""><img style="" src="{{ asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Globinc</span><span  style="color: white; font-weight: 300;"></span></h3>
                             </a>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
                             <ul class="d-flex justify-content-between align-items-center flex-wrap flex-md-nowrap">
                                 <li><a href="#">Personal Area</a></li>
 
-                                <li><p>Global incom. All rights reserved © 2020</p></li>
+                                <li><p>Globinc. All rights reserved © 2020</p></li>
                             </ul>
                         </div>
                     </div>

@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -15,7 +15,7 @@
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
                                         <h2 class="title title-xl" title="PARTNERSHIP" style="color: #fff;">PARTNERSHIP PROGRAM</h2>
-                                        <p style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> this is your chance for success and financial freedom.</p>
+                                        <p style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> this is your chance for success and financial freedom.</p>
                                     </div>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="GLOBAL incom">TERMS OF THE PARTNERSHIP PROGRAM</h2>
+                            <h2 class="title title-xl" title="Globinc">TERMS OF THE PARTNERSHIP PROGRAM</h2>
                             <p>We offer effective tools for work, as well as generous rewards and bonuses with career opportunities.</p>
                         </div>
                     </div>
@@ -372,7 +372,7 @@
                             <div class="nk-block-text text-center text-lg-left">
                                 <h2 class="title title-thin title-dark">VIDEO INSTRUCTION</h2>
                             </div>
-                            <p style="font-size: 1.4rem; color: #dabd75; text-align: end;">With the team <span style="font-weight: 900; color: #000;">Global</span><span  style="color: #000;"> incom</span> slump does not exist.</p>
+                            <p style="font-size: 1.4rem; color: #dabd75; text-align: end;">With the team <span style="font-weight: 900; color: #000;">Globinc</span><span  style="color: #000;"></span> slump does not exist.</p>
                         </div>
                     </div>
                 </div>

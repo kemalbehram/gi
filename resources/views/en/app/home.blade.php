@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -17,12 +17,12 @@
                     <div class="col-xl-8 col-lg-6 col-sm-10 text-center text-lg-left">
                         <div class="banner-caption">
                             <div class="section-head section-head-s2" style="padding-bottom: 10px;">
-                                <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; font-weight: 300;"> incom</span></h1>
+                                <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; font-weight: 300;"></span></h1>
                                 <h3 class="title title-xl title-glob" title="TO THE FUTURE" style="padding-bottom: 10px;">a way to success!</h3>
                             </div>
-                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Earn on the difference in the value of crypto currencies in the world market using the company's technological developments <span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> in area AI</p>
+                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Earn on the difference in the value of crypto currencies in the world market using the company's technological developments <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> in area AI</p>
                             <div class="cpn-action" >
-                                <a class="btn btn-primary btn-round " href="#" style="font-size:15px; margin-bottom: 10px;">REGISTER</a>
+                                <a class="btn btn-primary btn-round " href="https://my.globinc.com/auth/register" style="font-size:15px; margin-bottom: 10px;">REGISTER</a>
                             </div>
                             <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style=" ">Profit per month from<span  style="font-weight: 900; color: #dabd75; font-size: 59px; ">  30%</span></h3>
                         </div>
@@ -86,7 +86,7 @@
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="Global Package">
                                 TARIFF PACKAGES</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Invest with us. <span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> this is your chance for success and financial freedom</p>
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Invest with us. <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> this is your chance for success and financial freedom</p>
                         </div>
                     </div>
                 </div>
@@ -333,7 +333,7 @@
                             <!-- Section Head @s -->
                             <div class="nk-block-text pdb-r">
                                 <h2 class="title title-thin animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">
-                                    INSTRUCTIONS FOR WORK WITH <span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span></h2>
+                                    INSTRUCTIONS FOR WORK WITH <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span></h2>
                                 <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">To participate in the program, the user must register in his personal account, indicating there his full name, phone number, postal address and referral code, after which it is necessary to verify the mail.</p>
                                 <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".3" style="visibility: visible; animation-delay: 0.3s;">Go to the "accounts" section, select the "bonus account" subsection there. In this section, you need to generate your personal crypto wallet number to which you can send crypto currency.</p>
                             </div><!-- .section-head @e -->
@@ -462,11 +462,11 @@
                                 <div class="col-lg-7">
                                     <div class="nk-block-text mgb-m30">
                                         <h2 class="title title-md">Conditions for additional earnings.</h2>
-                                        <p>We are glad to announce that as part of the development of the GLOBAL incom platform, a profitable program has been launched that allows you to earn extra money for simple actions.</p>
+                                        <p>We are glad to announce that as part of the development of the Globinc platform, a profitable program has been launched that allows you to earn extra money for simple actions.</p>
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Shoot a short video on Instagram Stories and share your experience of investing in GLOBAL incom.</p>
+                                                <p>Shoot a short video on Instagram Stories and share your experience of investing in Globinc.</p>
                                             </div>
                                         </div>
                                         <div class="feature feature-inline feature-middle">
@@ -478,7 +478,7 @@
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Shoot a video about the platform, with active links, share your experience of investing in GLOBAL incom, post a video on YouTube.</p>
+                                                <p>Shoot a video about the platform, with active links, share your experience of investing in Globinc, post a video on YouTube.</p>
                                             </div>
                                         </div>
 
@@ -512,7 +512,7 @@
                         <div class="col-lg-5 col-md-10 text-center">
                             <div class="nk-block-text">
                                 <h2 class="title animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">Our application<br class="d-none d-md-block"> for convenient work</h2>
-                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Trades, the latest news, promotions and bonuses, the latest information on your earnings, all in your phone. With Global income, the path to financial independence is even more accessible.</p>
+                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Trades, the latest news, promotions and bonuses, the latest information on your earnings, all in your phone. With Globinc, the path to financial independence is even more accessible.</p>
                                 <div class="feature-text mt-4">
                                     <ul class="btn-grp btn-grp-s2 mt-0">
                                         <li><a href="#" class="btn-download google-play"><img src="{{asset('../images/google-play.png')}}" alt="img"></a></li>
@@ -591,7 +591,7 @@
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="GLOBAL GIVING">
                                 CHARITY</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> -
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> -
                                 making life better.</p>
                         </div>
                     </div>
@@ -873,79 +873,79 @@
 
         </section>
         <!-- // -->
-        <section class="section" id="contact">
+{{--        <section class="section" id="contact">--}}
 
-            <div class="container">
-                <!-- Block @s -->
-                <div class="nk-block nk-block-contact">
-                    <div class="row justify-content-between align-items-center gutter-vr-50px">
-                        <div class="col-lg-6">
-                            <div class="nk-block-text">
-                                <div class="nk-block-text-head">
-                                    <h2 class="title title-lg ttu">CONTACT US</h2>
-                                    <p>We are always open and we welcome and questions you have for our team. If you wish to get in touch, please fill out the form below. Someone from our team will get back to you shortly.</p>
-                                </div>
-                                <form method="POST" action="{{ route('massages.create') }}"  enctype="multipart/form-data" >
-                                    @csrf
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <div class="field-item">
-                                                <label class="field-label ttu">Your Name</label>
-                                                <div class="field-wrap">
-                                                    <input name="name" id="name" placeholder="Introduce yourself" type="text" class="input-bordered required">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <div class="field-item">
-                                                <label class="field-label ttu">Your Email</label>
-                                                <div class="field-wrap">
-                                                    <input name="email" id="email" placeholder="Who do we replay to" type="email" class="input-bordered required email">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="field-item">
-                                        <label class="field-label ttu">Your Message </label>
-                                        <div class="field-wrap">
-                                            <textarea name="massages"  id="massages" placeholder="Leave your question or comment here" class="input-bordered input-textarea required"></textarea>
-                                        </div>
-                                    </div>
-                                    <input type="text" class="d-none" name="form-anti-honeypot" value="">
-                                    <div class="row">
-                                        <div class="col-sm-5 text-right">
-                                            <button type="submit" class="btn btn-round btn-primary ">SEND</button>
-                                        </div>
-                                        <div class="col-sm-7 order-sm-first">
-                                            <div class="form-results"></div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="col-lg-5 text-center order-lg-first">
-                            <!-- TradingView Widget BEGIN -->
-                            <div class="tradingview-widget-container">
-                                <div class="tradingview-widget-container__widget"></div>
-                                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-                                    {
-                                        "interval": "1m",
-                                        "width": "370",
-                                        "isTransparent": true,
-                                        "height": "300",
-                                        "symbol": "COINBASE:BTCUSD",
-                                        "showIntervalTabs": true,
-                                        "locale": "uk",
-                                        "colorTheme": "dark"
-                                    }
-                                </script>
-                            </div>
-                            <!-- TradingView Widget END -->
-                        </div>
-                    </div>
-                </div><!-- .block @e -->
-            </div>
-        </section>
+{{--            <div class="container">--}}
+{{--                <!-- Block @s -->--}}
+{{--                <div class="nk-block nk-block-contact">--}}
+{{--                    <div class="row justify-content-between align-items-center gutter-vr-50px">--}}
+{{--                        <div class="col-lg-6">--}}
+{{--                            <div class="nk-block-text">--}}
+{{--                                <div class="nk-block-text-head">--}}
+{{--                                    <h2 class="title title-lg ttu">CONTACT US</h2>--}}
+{{--                                    <p>We are always open and we welcome and questions you have for our team. If you wish to get in touch, please fill out the form below. Someone from our team will get back to you shortly.</p>--}}
+{{--                                </div>--}}
+{{--                                <form method="POST" action="{{ route('massages.create') }}"  enctype="multipart/form-data" >--}}
+{{--                                    @csrf--}}
+{{--                                    <div class="row">--}}
+{{--                                        <div class="col-sm-6">--}}
+{{--                                            <div class="field-item">--}}
+{{--                                                <label class="field-label ttu">Your Name</label>--}}
+{{--                                                <div class="field-wrap">--}}
+{{--                                                    <input name="name" id="name" placeholder="Introduce yourself" type="text" class="input-bordered required">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="col-sm-6">--}}
+{{--                                            <div class="field-item">--}}
+{{--                                                <label class="field-label ttu">Your Email</label>--}}
+{{--                                                <div class="field-wrap">--}}
+{{--                                                    <input name="email" id="email" placeholder="Who do we replay to" type="email" class="input-bordered required email">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="field-item">--}}
+{{--                                        <label class="field-label ttu">Your Message </label>--}}
+{{--                                        <div class="field-wrap">--}}
+{{--                                            <textarea name="massages"  id="massages" placeholder="Leave your question or comment here" class="input-bordered input-textarea required"></textarea>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                    <input type="text" class="d-none" name="form-anti-honeypot" value="">--}}
+{{--                                    <div class="row">--}}
+{{--                                        <div class="col-sm-5 text-right">--}}
+{{--                                            <button type="submit" class="btn btn-round btn-primary ">SEND</button>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="col-sm-7 order-sm-first">--}}
+{{--                                            <div class="form-results"></div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </form>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-lg-5 text-center order-lg-first">--}}
+{{--                            <!-- TradingView Widget BEGIN -->--}}
+{{--                            <div class="tradingview-widget-container">--}}
+{{--                                <div class="tradingview-widget-container__widget"></div>--}}
+{{--                                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>--}}
+{{--                                    {--}}
+{{--                                        "interval": "1m",--}}
+{{--                                        "width": "370",--}}
+{{--                                        "isTransparent": true,--}}
+{{--                                        "height": "300",--}}
+{{--                                        "symbol": "COINBASE:BTCUSD",--}}
+{{--                                        "showIntervalTabs": true,--}}
+{{--                                        "locale": "uk",--}}
+{{--                                        "colorTheme": "dark"--}}
+{{--                                    }--}}
+{{--                                </script>--}}
+{{--                            </div>--}}
+{{--                            <!-- TradingView Widget END -->--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div><!-- .block @e -->--}}
+{{--            </div>--}}
+{{--        </section>--}}
     </main>
 
 @endsection

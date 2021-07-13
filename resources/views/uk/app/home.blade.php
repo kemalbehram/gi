@@ -1,7 +1,7 @@
 @extends('layouts.appuk')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global Money, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -22,8 +22,8 @@
                             </div>
                             <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Заробляй на різниці вартості крипто валют на світовому ринку, використовуючи технологічні розробки компанії <span style="color: white; font-weight: 900;">Globinc</span> в області AI. </p>
                             <div class="cpn-action" >
-                                <a class="btn btn-primary btn-round " href="#" style="font-size:15px; margin-bottom: 10px;">зареєструватися</a>
-                                <a class="btn btn-primary btn-thin btn-outline btn-auto btn-primary btn-round no-change " href="#" style="font-size:15px; margin-bottom: 10px;">скачати презентацію</a>
+                                <a class="btn btn-primary btn-round " href="https://my.globinc.com/auth/register" style="font-size:15px; margin-bottom: 10px;">зареєструватися</a>
+                                <a class="btn btn-primary btn-thin btn-outline btn-auto btn-primary btn-round no-change " href="{{asset('../pdf/Globinc.pdf')}}"  target="_blank" style="font-size:15px; margin-bottom: 10px;">скачати презентацію</a>
                             </div>
                             <h1 class="title title-xl title-glob" title="В БУДУЩЕЕ" style=" ">Прибуток в місяць від<span  style="font-weight: 900; color: #dabd75; font-size: 69px; ">  30%</span></h1>
                         </div>
@@ -101,7 +101,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="Global Package">ТАРИФНІ ПАКЕТИ</h2>
+                            <h2 class="title title-xl" title="Globinc Package">ТАРИФНІ ПАКЕТИ</h2>
                             <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Інвестуй разом з нами. <span style="color: white; font-weight: 900;">Globinc</span> - це твій шанс на успіх і фінансову незалежність.</p>
                         </div>
                     </div>
@@ -349,7 +349,7 @@
                         <div class="col-lg-7">
                             <!-- Section Head @s -->
                             <div class="nk-block-text pdb-r">
-                                <h2 class="title title-thin animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">ИНСТРУКЦИЯ ПО РАБОТЕ С <span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span></h2>
+                                <h2 class="title title-thin animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">ИНСТРУКЦИЯ ПО РАБОТЕ С <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span></h2>
                                 <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Для участия в программе пользователь должен осуществить регистрацию в личном кабинете, указав там ФИО, номер телефона, почтовый адрес и реферальный код, после чего необходимо верифицировать почту.</p>
                                 <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".3" style="visibility: visible; animation-delay: 0.3s;">Пройдите в раздел «счета», выберите подраздел «бонусный счет».  В данном разделе необходимо сгенерировать свой личной номер крипто кошелька, на который вы сможете отправить  крипто валюту.</p>
                             </div><!-- .section-head @e -->
@@ -478,11 +478,11 @@
                                 <div class="col-lg-7">
                                     <div class="nk-block-text mgb-m30">
                                         <h2 class="title title-md">Условия дополнительного заработка.</h2>
-                                        <p>Рады сообщить, что в рамках развития платформы GLOBAL incom начала работу выгодная программа, позволяющая дополнительно зарабатывать за несложные действия.</p>
+                                        <p>Рады сообщить, что в рамках развития платформы Globinc начала работу выгодная программа, позволяющая дополнительно зарабатывать за несложные действия.</p>
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Снимите короткое видео в Stories Instagram и поделитесь своим опытом инвестирования в GLOBAL incom.</p>
+                                                <p>Снимите короткое видео в Stories Instagram и поделитесь своим опытом инвестирования в Globinc.</p>
                                             </div>
                                         </div>
                                         <div class="feature feature-inline feature-middle">
@@ -494,7 +494,7 @@
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Снимите видео о платформе, с активным ссылками, поделитесь своим опытом инвестирования в GLOBAL incom, разместить видео в ютубе.</p>
+                                                <p>Снимите видео о платформе, с активным ссылками, поделитесь своим опытом инвестирования в Globinc, разместить видео в ютубе.</p>
                                             </div>
                                         </div>
 
@@ -528,7 +528,7 @@
                         <div class="col-lg-5 col-md-10 text-center">
                             <div class="nk-block-text">
                                 <h2 class="title animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">Наше приложение <br class="d-none d-md-block"> для удобной работы</h2>
-                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Торги, последние новости, акции и бонусы, последняя информация по вашим поступлениям и все это в вашем телефоне. С Global income путь к финансовой независимости еще доступнее.</p>
+                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Торги, последние новости, акции и бонусы, последняя информация по вашим поступлениям и все это в вашем телефоне. С Globinc путь к финансовой независимости еще доступнее.</p>
                                 <div class="feature-text mt-4">
                                     <ul class="btn-grp btn-grp-s2 mt-0">
                                         <li><a href="#" class="btn-download google-play"><img src="{{asset('../images/google-play.png')}}" alt="img"></a></li>
@@ -606,7 +606,7 @@
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="GLOBAL GIVING">БЛАГОТВОРИТЕЛЬНОСТЬ</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> - делаем жизнь лучше</p>
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> - делаем жизнь лучше</p>
                         </div>
                     </div>
                 </div>
@@ -877,79 +877,79 @@
             </div>
 
         </section>
-        <section class="section" id="contact">
+{{--        <section class="section" id="contact">--}}
 
-            <div class="container">
-                <!-- Block @s -->
-                <div class="nk-block nk-block-contact">
-                    <div class="row justify-content-between align-items-center gutter-vr-50px">
-                        <div class="col-lg-6">
-                            <div class="nk-block-text">
-                                <div class="nk-block-text-head">
-                                    <h2 class="title title-lg ttu">Свяжитесь с нами</h2>
-                                    <p>Мы всегда открыты к вопросам, которые вы задаете нашей команде. Если вы хотите с нами связаться, заполните форму ниже. Кто-то из нашей команды свяжется с вами в ближайшее время. </p>
-                                </div>
-                                <form method="POST" action="{{ route('massages.create') }}" >
-                                    @csrf
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <div class="field-item">
-                                                <label class="field-label ttu">Твое имя</label>
-                                                <div class="field-wrap">
-                                                    <input name="name" id="name" placeholder="Представьтесь " type="text" class="input-bordered required">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <div class="field-item">
-                                                <label class="field-label ttu">Ваша электронная почта</label>
-                                                <div class="field-wrap">
-                                                    <input name="email" id="email" placeholder="Кому мы отвечаем" type="email" class="input-bordered required email">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="field-item">
-                                        <label class="field-label ttu">Ваше сообщение </label>
-                                        <div class="field-wrap">
-                                            <textarea name="massages" id="massages" placeholder="Оставьте здесь свой вопрос или комментарий " class="input-bordered input-textarea required"></textarea>
-                                        </div>
-                                    </div>
-                                    <input type="text" class="d-none" name="form-anti-honeypot" value="">
-                                    <div class="row">
-                                        <div class="col-sm-5 text-right">
-                                            <button type="submit" class="btn btn-round btn-primary ">ОТПРАВИТЬ</button>
-                                        </div>
-                                        <div class="col-sm-7 order-sm-first">
-                                            <div class="form-results"></div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="col-lg-6  order-lg-first">
-                            <!-- TradingView Widget BEGIN -->
-                            <div class="tradingview-widget-container">
-                                <div class="tradingview-widget-container__widget"></div>
+{{--            <div class="container">--}}
+{{--                <!-- Block @s -->--}}
+{{--                <div class="nk-block nk-block-contact">--}}
+{{--                    <div class="row justify-content-between align-items-center gutter-vr-50px">--}}
+{{--                        <div class="col-lg-6">--}}
+{{--                            <div class="nk-block-text">--}}
+{{--                                <div class="nk-block-text-head">--}}
+{{--                                    <h2 class="title title-lg ttu">Свяжитесь с нами</h2>--}}
+{{--                                    <p>Мы всегда открыты к вопросам, которые вы задаете нашей команде. Если вы хотите с нами связаться, заполните форму ниже. Кто-то из нашей команды свяжется с вами в ближайшее время. </p>--}}
+{{--                                </div>--}}
+{{--                                <form method="POST" action="{{ route('massages.create') }}" >--}}
+{{--                                    @csrf--}}
+{{--                                    <div class="row">--}}
+{{--                                        <div class="col-sm-6">--}}
+{{--                                            <div class="field-item">--}}
+{{--                                                <label class="field-label ttu">Твое имя</label>--}}
+{{--                                                <div class="field-wrap">--}}
+{{--                                                    <input name="name" id="name" placeholder="Представьтесь " type="text" class="input-bordered required">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="col-sm-6">--}}
+{{--                                            <div class="field-item">--}}
+{{--                                                <label class="field-label ttu">Ваша электронная почта</label>--}}
+{{--                                                <div class="field-wrap">--}}
+{{--                                                    <input name="email" id="email" placeholder="Кому мы отвечаем" type="email" class="input-bordered required email">--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="field-item">--}}
+{{--                                        <label class="field-label ttu">Ваше сообщение </label>--}}
+{{--                                        <div class="field-wrap">--}}
+{{--                                            <textarea name="massages" id="massages" placeholder="Оставьте здесь свой вопрос или комментарий " class="input-bordered input-textarea required"></textarea>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                    <input type="text" class="d-none" name="form-anti-honeypot" value="">--}}
+{{--                                    <div class="row">--}}
+{{--                                        <div class="col-sm-5 text-right">--}}
+{{--                                            <button type="submit" class="btn btn-round btn-primary ">ОТПРАВИТЬ</button>--}}
+{{--                                        </div>--}}
+{{--                                        <div class="col-sm-7 order-sm-first">--}}
+{{--                                            <div class="form-results"></div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </form>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-lg-6  order-lg-first">--}}
+{{--                            <!-- TradingView Widget BEGIN -->--}}
+{{--                            <div class="tradingview-widget-container">--}}
+{{--                                <div class="tradingview-widget-container__widget"></div>--}}
 
-                                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-                                    {
-                                        "interval": "1m",
-                                        "width": "370",
-                                        "isTransparent": true,
-                                        "height": "300",
-                                        "symbol": "COINBASE:BTCUSD",
-                                        "showIntervalTabs": true,
-                                        "locale": "ru",
-                                        "colorTheme": "dark"
-                                    }
-                                </script>
-                            </div>
-                            <!-- TradingView Widget END -->
-                        </div>
-                    </div>
-                </div><!-- .block @e -->
-            </div>
-        </section>
+{{--                                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>--}}
+{{--                                    {--}}
+{{--                                        "interval": "1m",--}}
+{{--                                        "width": "370",--}}
+{{--                                        "isTransparent": true,--}}
+{{--                                        "height": "300",--}}
+{{--                                        "symbol": "COINBASE:BTCUSD",--}}
+{{--                                        "showIntervalTabs": true,--}}
+{{--                                        "locale": "ru",--}}
+{{--                                        "colorTheme": "dark"--}}
+{{--                                    }--}}
+{{--                                </script>--}}
+{{--                            </div>--}}
+{{--                            <!-- TradingView Widget END -->--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div><!-- .block @e -->--}}
+{{--            </div>--}}
+{{--        </section>--}}
     </main>
 @endsection

@@ -1,7 +1,7 @@
 @extends('layouts.appuk')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')

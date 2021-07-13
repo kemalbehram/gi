@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -15,7 +15,7 @@
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
                                         <h2 class="title title-xl" title="BONUS" style="color: #fff;"> BONUS +</h2>
-                                        <p>We are glad to announce that as part of the development of the GLOBAL incom platform, a profitable program has been launched that allows you to earn extra money for simple actions.</p>
+                                        <p>We are glad to announce that as part of the development of the Globinc platform, a profitable program has been launched that allows you to earn extra money for simple actions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="GLOBAL incom"> ADDITIONAL EARNINGS CONDITIONS</h2>
+                            <h2 class="title title-xl" title="Globinc"> ADDITIONAL EARNINGS CONDITIONS</h2>
 
                         </div>
                     </div>
@@ -53,7 +53,7 @@
                                         <em class="icon icon-xs icon-circle fas fa-check"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <p>Shoot a short video on Instagram Stories and share your experience of investing in GLOBAL incom.</p>
+                                        <p>Shoot a short video on Instagram Stories and share your experience of investing in Globinc.</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline">
@@ -70,7 +70,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <p>
-                                            Shoot a video about the platform, with active links, share your experience of investing in GLOBAL incom, post a video on YouTube.</p>
+                                            Shoot a video about the platform, with active links, share your experience of investing in Globinc, post a video on YouTube.</p>
                                     </div>
                                 </div>
                             </div>

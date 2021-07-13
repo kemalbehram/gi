@@ -1,7 +1,7 @@
 @extends('layouts.appuk')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -137,7 +137,7 @@
                                     <div class="feature-text">
                                         <h4 class="title title-md title-dark">
 Продолжительность хранения данных</h4>
-                                        <p>Мы сохраняем вашу Личную информацию для выполнения наших юридических, операционных, договорных и нормативных обязательств. Для каждого типа записей требования к ведению записей могут различаться, поэтому мы гарантируем, что ни при каких обстоятельствах не будем хранить вашу Личную информацию дольше, чем требуется. Свяжитесь с нами по адресу support@global.incom, если вы хотите узнать больше о сроке хранения определенных данных.</p>
+                                        <p>Мы сохраняем вашу Личную информацию для выполнения наших юридических, операционных, договорных и нормативных обязательств. Для каждого типа записей требования к ведению записей могут различаться, поэтому мы гарантируем, что ни при каких обстоятельствах не будем хранить вашу Личную информацию дольше, чем требуется. Свяжитесь с нами по адресу support@globinc, если вы хотите узнать больше о сроке хранения определенных данных.</p>
                                     </div>
                                 </div>
                             </div><!-- .col -->

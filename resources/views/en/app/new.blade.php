@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -41,7 +41,7 @@
                             <img src="{{asset($news->avatar)}}" alt="" style="width: 100%;">
                             <ul class="blog-meta">
                                 <li><a href="#">{{$news->created_at}}</a></li>
-                                <li><a href="#">Global incom</a></li>
+                                <li><a href="#">Globinc</a></li>
                             </ul>
                             <div class="blog-content">
                                 <h2 class="title">{{$news->title1}}</h2>

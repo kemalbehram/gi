@@ -1,7 +1,7 @@
 @extends('layouts.appru')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -15,7 +15,7 @@
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
                                         <h2 class="title title-xl" title="Timeline" style="color: #fff;">ИСТОРИЯ О НАС</h2>
-                                        <p><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span> разрабатывает глобальную AI экосистему на основе данных мировых финансовых и крипто бирж</p>
+                                        <p><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> разрабатывает глобальную AI экосистему на основе данных мировых финансовых и крипто бирж</p>
                                     </div>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                                 <h6 class="roadmap-year-s2">С1 2016</h6>
                                 <h5 class="title title-sm roadmap-date">Jan - Apr 2016</h5>
                                 <div class="roadmap-text">
-                                    <p>Формирование команды <span style="color: #020202; font-weight: 900;">Global</span><span style="color: #050505; "> incom</span>, вокруг идей по созданию торговой системы.</p>
+                                    <p>Формирование команды <span style="color: #020202; font-weight: 900;">Globinc</span><span style="color: #050505; "></span>, вокруг идей по созданию торговой системы.</p>
                                 </div>
                             </div>
                             <div class="roadmap roadmap-s2 roadmap-i2 roadmap-running">
@@ -184,7 +184,7 @@
                                     <!-- <img src="images/azalea/doc-d.jpg" alt=""> -->
                                 </div>
                                 <div class="doc-text">
-                                    <h5 class="doc-title title-sm">СОТРУДНИЧЕСТВО С Global incom</h5>
+                                    <h5 class="doc-title title-sm">СОТРУДНИЧЕСТВО С Globinc</h5>
 
                                     <div class="doc-lang">для всех пользователей </div>
                                 </div>
@@ -200,7 +200,7 @@
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="GLOBAL GIVING">БЛАГОТВОРИТЕЛЬНОСТЬ</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: #020202; font-weight: 900;">Global</span><span style="color: #070707; "> incom</span> -
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: #020202; font-weight: 900;">Globinc</span><span style="color: #070707; "></span> -
                                 делаем жизнь лучше</p>
                         </div>
                     </div>

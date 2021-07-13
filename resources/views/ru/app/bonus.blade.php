@@ -1,7 +1,7 @@
 @extends('layouts.appru')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -15,7 +15,7 @@
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
                                         <h2 class="title title-xl" title="BONUS" style="color: #fff;"> БОНУС +</h2>
-                                        <p>Рады сообщить, что в рамках развития платформы GLOBAL incom начала работу выгодная программа, позволяющая дополнительно зарабатывать за несложные действия</p>
+                                        <p>Рады сообщить, что в рамках развития платформы Globinc начала работу выгодная программа, позволяющая дополнительно зарабатывать за несложные действия</p>
                                     </div>
                                 </div>
                             </div>
@@ -36,7 +36,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="GLOBAL incom"> УСЛОВИЯ ДОПОЛНИТЕЛЬНОГО ЗАРАБОТКА</h2>
+                            <h2 class="title title-xl" title="Globinc"> УСЛОВИЯ ДОПОЛНИТЕЛЬНОГО ЗАРАБОТКА</h2>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Снимите короткое видео в Stories Instagram и поделитесь своим опытом инвестирования в GLOBAL incom</p>
+                                <p style="color: #dabd75;">Снимите короткое видео в Stories Instagram и поделитесь своим опытом инвестирования в Globinc</p>
                             </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Хештеги:</h5>
-                                        <p>#globalincom <br>#пассивныйдоход<br>#криптобиржа<br>#заработоквинтернете</p>
+                                        <p>#globinc <br>#пассивныйдоход<br>#криптобиржа<br>#заработоквинтернете</p>
                                     </div>
                                 </div>
                             </div>
@@ -167,7 +167,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Снимите видео о платформе, с активной ссылкой, поделитесь своим опытом инвестирования в GLOBAL incom, разместите видео в ютубе.</p>
+                                <p style="color: #dabd75;">Снимите видео о платформе, с активной ссылкой, поделитесь своим опытом инвестирования в Globinc, разместите видео в ютубе.</p>
                             </div>
                         </div>
                     </div>

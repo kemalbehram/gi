@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making money on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -125,7 +125,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h4 class="title title-md title-dark">Length of Data Retention</h4>
-                                        <p>We retain your Personal Information to meet our legal, operational, contractual and regulatory obligations. For each type of records the recordkeeping requirements may vary so we guarantee that in no event shall we retain your Personal Information longer than required. Please contact us at support@global.incom if you would like to know more about length of retention for a specific data.</p>
+                                        <p>We retain your Personal Information to meet our legal, operational, contractual and regulatory obligations. For each type of records the recordkeeping requirements may vary so we guarantee that in no event shall we retain your Personal Information longer than required. Please contact us at support@globinc if you would like to know more about length of retention for a specific data.</p>
                                     </div>
                                 </div>
                             </div><!-- .col -->

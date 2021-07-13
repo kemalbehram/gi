@@ -1,7 +1,7 @@
 @extends('layouts.app')
-@section('title', 'Global incom - Passive income on the crypto exchange.')
-@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Global incom, your way to success.')
-@section('keywords', 'Passive income | Global incom')
+@section('title', 'Globinc - Passive income on the crypto exchange.')
+@section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
+@section('keywords', 'Passive income | Globinc')
 @section('breadcrumbs')
 @endsection
 @section('content')
@@ -15,7 +15,7 @@
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
                                         <h2 class="title title-xl" title="Timeline" style="color: #fff;"> ABOUT US</h2>
-                                        <p><span style="color: white; font-weight: 900;">Global</span><span  style="color: white; "> incom</span>
+                                        <p><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span>
                                             develops a global AI ecosystem based on data from world financial and crypto exchanges ...</p>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@
                                 <h6 class="roadmap-year-s2">С1 2016</h6>
                                 <h5 class="title title-sm roadmap-date">Jan - Apr 2016</h5>
                                 <div class="roadmap-text">
-                                    <p>Team building <span style="color: black; font-weight: 900;">Global</span><span  style="color: #030303; "> incom</span>, around ideas for creating a trading system.</p>
+                                    <p>Team building <span style="color: black; font-weight: 900;">Globinc</span><span  style="color: #030303; "></span>, around ideas for creating a trading system.</p>
                                 </div>
                             </div>
                             <div class="roadmap roadmap-s2 roadmap-i2 roadmap-running">
@@ -192,7 +192,7 @@
                                 </div>
                                 <div class="doc-text">
                                     <h5 class="doc-title title-sm">
-                                        COOPERATION WITH GLOBAL incom</h5>
+                                        COOPERATION WITH Globinc</h5>
 
                                     <div class="doc-lang">
                                         for all users </div>
@@ -210,7 +210,7 @@
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="GLOBAL GIVING">
                                 CHARITY</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: #030303; font-weight: 900;">Global</span><span style="color: #020202; "> incom</span> -
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;"><span style="color: #030303; font-weight: 900;">Globinc</span><span style="color: #020202; "></span> -
                                 making life better.</p>
                         </div>
                     </div>
