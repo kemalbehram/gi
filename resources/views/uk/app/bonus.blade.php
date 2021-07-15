@@ -15,7 +15,7 @@
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
                                         <h2 class="title title-xl" title="BONUS" style="color: #fff;"> БОНУС +</h2>
-                                        <p>Рады сообщить, что в рамках развития платформы GLOBAL incom начала работу выгодная программа, позволяющая дополнительно зарабатывать за несложные действия</p>
+                                        <p>З радістю повідомляємо, що в рамках розвитку платформи Globinc розпочала роботу вигідна програма, що дозволяє додатково заробляти за нескладні дії</p>
                                     </div>
                                 </div>
                             </div>
@@ -36,7 +36,8 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="GLOBAL incom"> УСЛОВИЯ ДОПОЛНИТЕЛЬНОГО ЗАРАБОТКА</h2>
+                            <h2 class="title title-xl" title="GLOBAL incom">
+                                УМОВИ ДОДАТКОВОГО ЗАРОБІТКУ</h2>
                         </div>
                     </div>
                 </div>
@@ -49,7 +50,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Снимите короткое видео в Stories Instagram и поделитесь своим опытом инвестирования в GLOBAL incom</p>
+                                <p style="color: #dabd75;">Зніміть коротке відео в Stories Instagram і поділіться своїм досвідом інвестування в Globinc</p>
                             </div>
                         </div>
                     </div>
@@ -64,8 +65,9 @@
                                         <em class="icon ti ti-wallet"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Требования к видео</h5>
-                                        <p>Длина stories - видео должна быть не менее 35 с. Качество видео должно обеспечивать читаемость содержания.</p>
+                                        <h5 class="title title-sm">
+                                            Вимоги до відео</h5>
+                                        <p>Довжина stories - відео повинна бути не менше 35 с. Якість відео повинно забезпечувати читаність змісту.</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline feature-md-reverse">
@@ -73,8 +75,10 @@
                                         <em class="icon ti ti-gift"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Требования к содержанию видео</h5>
-                                        <p>Видео должно содержать кадры личного кабинета, приобретенный пакет, баланс пользователя, начисленные %.</p>
+                                        <h5 class="title title-sm">
+                                            Вимоги до змісту відео</h5>
+                                        <p>
+                                            Відео має містити кадри особистого кабінету, придбаний пакет, баланс користувача, нараховані%.</p>
                                     </div>
                                 </div>
                             </div>
@@ -84,8 +88,9 @@
                                         <em class="icon ti ti-world"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Требования к публикации</h5>
-                                        <p>В публикации должна присутствовать ссылка на инстаграм страницу компании, а также хештеги.</p>
+                                        <h5 class="title title-sm">Вимоги до публікації</h5>
+                                        <p>
+                                            У публікації має бути присутня посилання на інстаграм сторінку компанії, а також хештеги.</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline">
@@ -94,7 +99,7 @@
                                     </div>
                                     <div class="feature-text">
                                         <h5 class="title title-sm">Хештеги:</h5>
-                                        <p>#globalincom <br>#пассивныйдоход<br>#криптобиржа<br>#заработоквинтернете</p>
+                                        <p>#globinc <br>#пассивныйдоход<br>#криптобиржа<br>#заработоквинтернете</p>
                                     </div>
                                 </div>
                             </div>
@@ -119,7 +124,8 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Напишите статью на своем посещаемом ресурсе и расскажите в ней о преимуществах платформы, поделитесь мнением и выскажите отзыв.</p>
+                                <p style="color: #dabd75;">
+                                    Напишіть статтю на своєму відвідуваному ресурсі і розкажіть в ній про переваги платформи, поділіться думкою і висловіть відгук.</p>
                             </div>
                         </div>
                     </div>
@@ -134,8 +140,9 @@
                                         <em class="icon icon-lg ikon ikon-cloud"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h4 class="title title-md title-dark">Требования к месту размещения:</h4>
-                                        <p>Пост может быть размещен на собственной странице фейсбук или на личном информационном сайте или блоге, посещаемость которого должно быть не менее 200 чел. в день, или количество подписчиков должно составлять не менее 200 чел.
+                                        <h4 class="title title-md title-dark">
+                                            Вимоги до місця розміщення:</h4>
+                                        <p>Піст може бути розміщений на власній сторінці фейсбук або на особистому інформаційному сайті або блозі, відвідуваність якого має бути не менше 200 чол. в день, або кількість передплатників має становити не менше 200 чол.
                                         </p>
                                     </div>
                                 </div>
@@ -146,8 +153,8 @@
                                         <em class="icon icon-lg ikon ikon-safety"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h4 class="title title-md title-dark">Требования к посту:</h4>
-                                        <p>Статья должна содержать не менее 1000 символов, ссылку на сайт компании, а также скриншоты личного кабинета, приобретенный пакет, баланс пользователя, начисленные %.</p>
+                                        <h4 class="title title-md title-dark">Вимоги до посту:</h4>
+                                        <p>Стаття повинна містити не менше 1000 символів, посилання на сайт компанії, а також скріншоти особистого кабінету, придбаний пакет, баланс користувача, нараховані%.</p>
                                     </div>
                                 </div>
                             </div><!-- .col -->
@@ -167,7 +174,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Снимите видео о платформе, с активной ссылкой, поделитесь своим опытом инвестирования в GLOBAL incom, разместите видео в ютубе.</p>
+                                <p style="color: #dabd75;">Зніміть відео про платформу, з активним посиланням, поділіться своїм досвідом інвестування в Globinc, розмістіть відео в ютубі.</p>
                             </div>
                         </div>
                     </div>
@@ -187,8 +194,8 @@
                                             <em class="icon ikon ikon-shiled-alt"></em>
                                         </div>
                                         <div class="feature-text">
-                                            <h5 class="title title-sm">Требования к видео:</h5>
-                                            <p>Длина видео должна быть не менее 35 с. Качество видео должно обеспечивать читаемость содержания.</p>
+                                            <h5 class="title title-sm">Вимоги до відео:</h5>
+                                            <p>Довжина відео повинна бути не менше 35 с. Якість відео повинно забезпечувати читаність змісту.</p>
                                         </div>
                                     </div>
                                     <div class="feature feature-s2">
@@ -196,8 +203,8 @@
                                             <em class="icon ikon ikon-user"></em>
                                         </div>
                                         <div class="feature-text">
-                                            <h5 class="title title-sm">Требования к содержанию:</h5>
-                                            <p>Видео должно содержать кадры личного кабинета, приобретенный пакет, баланс пользователя, начисленные %.</p>
+                                            <h5 class="title title-sm">Вимоги до змісту відео:</h5>
+                                            <p>Відео має містити кадри особистого кабінету, придбаний пакет, баланс користувача, нараховані%.</p>
                                         </div>
                                     </div>
                                     <div class="feature feature-s2">
@@ -205,8 +212,8 @@
                                             <em class="icon ikon ikon-data-server"></em>
                                         </div>
                                         <div class="feature-text">
-                                            <h5 class="title title-sm">Правила публикации:</h5>
-                                            <p>При загрузке видео на канал, автор должен заполнить поле краткое содержание, указать ссылку, на сайт компании, а также хештеги.</p>
+                                            <h5 class="title title-sm">Вимоги до публікації:</h5>
+                                            <p>При завантаженні відео на канал, автор повинен заповнити поле короткий зміст, вказати посилання, на сайт компанії, а також хештеги.</p>
                                         </div>
                                     </div>
                                 </div>

@@ -14,8 +14,8 @@
                             <div class="col-xl-6 col-lg-9">
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
-                                        <h2 class="title title-xl" title="PARTNERSHIP" style="color: #fff;">ПАРТНЁРСКАЯ ПРОГРАММА</h2>
-                                        <p style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> это твой шанс на успех и финансовою свободу</p>
+                                        <h2 class="title title-xl" title="PARTNERSHIP" style="color: #fff;">ПАРТНЕРСЬКА ПРОГРАМА</h2>
+                                        <p style="font-size: 1.4rem; color: #dabd75;"><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> це твій шанс на успіх і фінансову незалежність</p>
                                     </div>
                                 </div>
                             </div>
@@ -40,8 +40,9 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="Globinc">УСЛОВИЯ ПАРТНЁРСКОЙ ПРОГРАММЫ</h2>
-                            <p>Мы предлагаем эффективные инструменты работы, а также щедрые вознаграждения и бонусы с возможностью карьерного роста</p>
+                            <h2 class="title title-xl" title="Globinc">
+                                УМОВИ ПАРТНЕРСЬКОЇ ПРОГРАМИ</h2>
+                            <p>Ми пропонуємо ефективні інструменти роботи, а також щедрі винагороди і бонуси з можливістю кар'єрного росту</p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +62,8 @@
                                         <em class="icon icon-xs icon-circle fas fa-check"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <p>Приобретение тарифных пакетов GLOBAL происходит по фиксированной цене, по актуальному курсу в USD и выплаты происходят в USDT.</p>
+                                        <p>
+                                            Придбання тарифних пакетів GLOBAL відбувається за фіксованою ціною, по актуальному курсу в USD та виплати проводяться в USDT.</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline">
@@ -69,7 +71,7 @@
                                         <em class="icon icon-xs icon-circle fas fa-check"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <p>Начисление по пакетам происходит 1 раз в неделю в фиксированный̆ день, комиссия за вывод денежных средств - 2,5%.</p>
+                                        <p>Нарахування по пакетам відбувається 1 раз в тиждень в фіксований день, комісія за виведення грошових коштів - 2,5%.</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline">
@@ -77,11 +79,11 @@
                                         <em class="icon icon-xs icon-circle fas fa-check"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <p>Регламент обработки заявки 72 часа, для подачи новой заявки на вывод средств, предыдущая заявка на вывод средств должна быть обработана.</p>
+                                        <p>Регламент обработки заявки 72 часа. Подача новой заявки на вывод средств возможна, если предыдущая заявка обработана.</p>
                                     </div>
                                 </div>
                                 <div class="text-center text-sm-left">
-                                    <a href="#" class="btn btn-round btn-primary">ИНВЕСТИРОВАТЬ</a>
+                                    <a href="#" class="btn btn-round btn-primary">ІНВЕСТУВАТИ</a>
                                 </div>
                             </div>
                         </div>
@@ -104,8 +106,8 @@
                             <div class="container con">
                                 <!-- Section Head @s -->
                                 <div class="section-head text-center wide-auto">
-                                    <h2 class="title title-xl">ТАБЛИЦА РЕФЕРАЛЬНЫХ БОНУСОВ
-                                        <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Деньги должны работать и приносить прибыль</p>
+                                    <h2 class="title title-xl">ТАБЛИЦЯ РЕФЕРАЛЬНИХ БОНУСІВ
+                                        <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Гроші повинні працювати і приносити прибуток</p>
                                     </h2>
                                 </div><!-- .section-head @e -->
                                 <!-- Block @s -->
@@ -114,10 +116,10 @@
                                     <table cellpadding="0" cellspacing="0" border="0">
                                       <thead>
                                         <tr>
-                                           <th style="width:50%; color:#fff;">Бизнес-партнёр</th>
-                                            <th style="width:25%; color:#fff;">Начисление,$</th>
+                                           <th style="width:50%; color:#fff;">Бізнес-партнер</th>
+                                            <th style="width:25%; color:#fff;">Нарахування,$</th>
                                             <th style="width:10%; color:#fff;">%</th>
-                                            <th style="width:15%; color:#fff;">Премия,$</th>
+                                            <th style="width:15%; color:#fff;">Премія,$</th>
                                         </tr>
                                       </thead>
                                     </table>
@@ -132,13 +134,13 @@
                                             <td  style="width:15%"></td>
                                         </tr>
                                         <tr>
-                                            <td>ВЕДУЩИЙ ПАРТНЕР</td>
+                                            <td>ПРОВІДНИЙ ПАРТНЕР</td>
                                             <td>200</td>
                                             <td>5,5</td>
                                             <td></td>
                                         </tr>
                                         <tr>
-                                            <td>БИЗНЕС ПАРТНЕР</td>
+                                            <td>БІЗНЕС ПАРТНЕР</td>
                                             <td>500</td>
                                             <td>6</td>
                                             <td></td>
@@ -155,13 +157,13 @@
                                         <td>200</td>
                                         </tr>
                                         <tr>
-                                            <td>РЕГИОНАЛЬНЫЙ МЕНЕДЖЕР</td>
+                                            <td>РЕГІОНАЛЬНЫЙ МЕНЕДЖЕР</td>
                                             <td>5 000</td>
                                             <td>7,5</td>
                                             <td>250</td>
                                         </tr>
                                         <tr>
-                                            <td>ИСПОЛНИТЕЛЬНЫЙ МЕНЕДЖЕР</td>
+                                            <td>ВИКОНАВЧИЙ МЕНЕДЖЕР</td>
                                             <td>10 000</td>
                                             <td>8</td>
                                             <td>300</td>
@@ -179,13 +181,13 @@
                                             <td>400</td>
                                         </tr>
                                         <tr>
-                                            <td>РЕГИОНАЛЬНЫЙ КУРАТОР</td>
+                                            <td>РЕГІОНАЛЬНЫЙ КУРАТОР</td>
                                             <td>40 000</td>
                                             <td>9,5</td>
                                             <td>450</td>
                                         </tr>
                                         <tr>
-                                            <td>ИСПОЛНИТЕЛЬНЫЙ КУРАТОР</td>
+                                            <td>ВИКОНАВЧИЙ КУРАТОР</td>
                                             <td>50 000</td>
                                             <td>10</td>
                                             <td>500</td>
@@ -221,31 +223,31 @@
                                             <td>4 000</td>
                                         </tr>
                                         <tr>
-                                            <td>РЕГИОНАЛЬНЫЙ ДИРЕКТОР</td>
+                                            <td>РЕГІОНАЛЬНЫЙ ДИРЕКТОР</td>
                                             <td>500 000</td>
                                             <td>13</td>
                                             <td>5 000</td>
                                         </tr>
                                         <tr>
-                                            <td>ИСПОЛНИТЕЛЬНЫЙ ДИРЕКТОР</td>
+                                            <td>ВИКОНАВЧИЙ ДИРЕКТОР</td>
                                             <td>1 000 000</td>
                                             <td>13,5</td>
                                             <td>10 000</td>
                                         </tr>
                                         <tr>
-                                            <td>МЕЖДУНАРОДНЫЙ ДИРЕКТОР</td>
+                                            <td>МЕЖНАРОДНИЙ ДИРЕКТОР</td>
                                             <td>5 000 000</td>
                                             <td>14</td>
                                             <td>20 000</td>
                                         </tr>
                                         <tr>
-                                            <td>АКЦИОННЕР</td>
+                                            <td>АКЦІОНЕР</td>
                                             <td>10 000 000</td>
                                             <td>14,5</td>
                                             <td>50 000</td>
                                         </tr>
                                         <tr>
-                                            <td>СОВЛАДЕЛЕЦ</td>
+                                            <td>СПІВВЛАСНИК</td>
                                             <td>100 000 000</td>
                                             <td>15</td>
                                             <td>100 000</td>
@@ -370,9 +372,9 @@
                         </div>
                         <div class="col-lg-5 order-lg-last">
                             <div class="nk-block-text text-center text-lg-left">
-                                <h2 class="title title-thin title-dark">ВИДЕОИНСТРУКЦИЯ</h2>
+                                <h2 class="title title-thin title-dark">ВІДЕОІНСТРУКЦІЯ</h2>
                             </div>
-                            <p style="font-size: 1.4rem; color: #dabd75; text-align: end;">С командой <span style="font-weight: 900; color: #000;">Globinc</span><span  style="color: #000;"></span> кризиса не существует</p>
+                            <p style="font-size: 1.4rem; color: #dabd75; text-align: end;">З командою <span style="font-weight: 900; color: #000;">Globinc</span><span  style="color: #000;"></span> кризи не існує</p>
                         </div>
                     </div>
                 </div>

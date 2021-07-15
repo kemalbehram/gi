@@ -380,7 +380,7 @@
                                             <em class="icon fas fa-check"></em>
                                         </div>
                                         <div class="feature-text feature-text-s1">
-                                            <p>Старт торгов на рынке крыптовалют.</p>
+                                            <p>Старт торгов на рынке криптовалют.</p>
                                         </div>
                                     </div>
                                 </div><!-- .col -->
@@ -442,21 +442,21 @@
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Приобретение  тарифных пакетов GLOBAL происходит по фиксированной цене, по актуальному курсу в USD и выплаты происходят в USDT.</p>
+                                                <p>Приобретение тарифных пакетов GLOBAL происходит по фиксированной цене, по актуальному курсу в USD и выплаты производятся в USDT.</p>
                                             </div>
                                         </div>
 
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Начисление по пакетам происходит 1 раз в неделю в фиксированный день, комиссия за вывод денежных средств - 2,5%.</p>
+                                                <p>Начисление по пакетам происходит 1 раз в неделю в фиксированный день, комиссия за вывод денежных средств - 2,5%.</p>
                                             </div>
                                         </div>
 
                                         <div class="feature feature-inline feature-middle">
 
                                             <div class="feature-text">
-                                                <p>Регламент обработки заявки 72 часа, для подачи новой̆ заявки на вывод средств, предыдущая заявка на вывод средств должна быть обработана.</p>
+                                                <p>Регламент обработки заявки 72 часа. Подача новой заявки на вывод средств возможна, если предыдущая заявка обработана.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -646,7 +646,7 @@
                                         <div class="row justify-content-center gutter-vr-30px">
                                             <div class="nk-block-video tc-light">
                                                 <img src="{{asset('../images/youtube1.png')}}" alt="video">
-                                                <a href="https://www.youtube.com/watch?v=lce3M77wc1c" class="nk-block-video-play  video-popup btn-play btn-play-s3">
+                                                <a href="https://www.youtube.com/watch?v=t3-WMpedDRw" class="nk-block-video-play  video-popup btn-play btn-play-s3">
                                                     <svg class="btn-play-icon-s2" viewBox="0 0 24 34"><path fill-rule="evenodd" d="M0.212,32.552 C0.427,32.851 0.769,33.010 1.117,33.010 C1.337,33.010 1.559,32.947 1.752,32.814 L23.521,17.879 C23.816,17.678 23.991,17.350 23.991,16.998 C23.991,16.646 23.816,16.319 23.521,16.115 L1.752,1.181 C1.415,0.950 0.972,0.922 0.606,1.107 C0.240,1.292 0.010,1.661 0.010,2.064 L0.010,22.480 C0.010,23.076 0.506,23.558 1.116,23.558 C1.727,23.558 2.222,23.076 2.222,22.480 L2.222,4.142 L20.963,16.998 L0.479,31.049 C-0.020,31.393 -0.140,32.066 0.212,32.552 Z"></path></svg>
                                                 </a>
                                             </div>
@@ -656,7 +656,7 @@
                                         <div class="row justify-content-center gutter-vr-30px">
                                             <div class="nk-block-video tc-light">
                                                 <img src="{{asset('../images/video/a2.png')}}" alt="video">
-                                                <a href="https://www.youtube.com/watch?v=MfI0Snru6Yc" class="nk-block-video-play video-popup btn-play btn-play-s3">
+                                                <a href="https://www.youtube.com/watch?v=uvKscmQCBNY" class="nk-block-video-play video-popup btn-play btn-play-s3">
                                                     <svg class="btn-play-icon-s2" viewBox="0 0 24 34"><path fill-rule="evenodd" d="M0.212,32.552 C0.427,32.851 0.769,33.010 1.117,33.010 C1.337,33.010 1.559,32.947 1.752,32.814 L23.521,17.879 C23.816,17.678 23.991,17.350 23.991,16.998 C23.991,16.646 23.816,16.319 23.521,16.115 L1.752,1.181 C1.415,0.950 0.972,0.922 0.606,1.107 C0.240,1.292 0.010,1.661 0.010,2.064 L0.010,22.480 C0.010,23.076 0.506,23.558 1.116,23.558 C1.727,23.558 2.222,23.076 2.222,22.480 L2.222,4.142 L20.963,16.998 L0.479,31.049 C-0.020,31.393 -0.140,32.066 0.212,32.552 Z"></path></svg>
                                                 </a>
                                             </div>

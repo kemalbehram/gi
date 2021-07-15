@@ -14,9 +14,8 @@
                             <div class="col-xl-6 col-lg-9">
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
-                                        <h2 class="title title-xl" title="News" style="color: #fff;">Новости</h2>
-                                        <p>
-                                            О проекте в сми, бонусы, акции, новости проекта и многое другое вы найдете в рубрике новости.</p>
+                                        <h2 class="title title-xl" title="Timeline" style="color: #fff;">НОВИНИ</h2>
+                                        <p>Про проект в змі, бонуси, акції, новини проекту та багато іншого ви знайдете в рубриці новини</p>
                                     </div>
                                 </div>
                             </div>
