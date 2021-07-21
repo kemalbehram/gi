@@ -148,31 +148,31 @@
                                         <td>MANAGER</td>
                                         <td>1 000</td>
                                         <td>6,5</td>
-                                        <td>150</td>
+                                        <td>100</td>
                                     </tr>
                                     <tr>
                                         <td>SENIOR MANAGER</td>
                                         <td>2 000</td>
                                         <td>7</td>
-                                        <td>200</td>
+                                        <td>-</td>
                                     </tr>
                                     <tr>
                                         <td>REGIONAL MANAGER</td>
                                         <td>5 000</td>
                                         <td>7,5</td>
-                                        <td>250</td>
+                                        <td>200</td>
                                     </tr>
                                     <tr>
                                         <td>EXECUTIVE MANAGER</td>
                                         <td>10 000</td>
                                         <td>8</td>
-                                        <td>300</td>
+                                        <td>200</td>
                                     </tr>
                                     <tr>
                                         <td>CURATOR</td>
                                         <td>20 000</td>
                                         <td>8,5</td>
-                                        <td>350</td>
+                                        <td>300</td>
                                     </tr>
                                     <tr>
                                         <td>SENIOR CURATOR</td>
@@ -184,7 +184,7 @@
                                         <td>REGIONAL CURATOR</td>
                                         <td>40 000</td>
                                         <td>9,5</td>
-                                        <td>450</td>
+                                        <td>500</td>
                                     </tr>
                                     <tr>
                                         <td>EXECUTIVE CURATOR</td>

@@ -179,6 +179,7 @@
     <script src="{{ asset('js/classie.js') }}"></script>
     <script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>
     <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
+    @yield('script')
     <script src="{{ asset('js/scripts.js?ver=1930') }}"></script>
     <script src="{{ asset('js/charts.js') }}"></script>
     <script src="{{ asset('js/toastr.examples.js?ver=1930')}}"></script>

@@ -18,7 +18,7 @@
                         <div class="banner-caption">
                             <div class="section-head section-head-s2" style="padding-bottom: 10px;">
                                 <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; font-weight: 300;"></span></h1>
-                                <h3 class="title title-xl title-glob" title="TO THE FUTURE" style="padding-bottom: 10px;">a way to success!</h3>
+                                <h3 class="title title-xl title-glob" title="TO THE FUTURE" style="padding-bottom: 10px;"> way to success!</h3>
                             </div>
                             <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Earn on the difference in the value of crypto currencies in the world market using the company's technological developments <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> in area AI</p>
                             <div class="cpn-action" >

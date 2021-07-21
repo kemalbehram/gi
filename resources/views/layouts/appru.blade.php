@@ -173,6 +173,7 @@
             <div class="ovm-line"></div>
         </div>
         <div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/bitcoin2.png')}}"></span></div>
+        <script src="{{ asset('js/cal.js') }}"></script>
         <script src="{{ asset('js/classie.js') }}"></script>
         <script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>
         <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
