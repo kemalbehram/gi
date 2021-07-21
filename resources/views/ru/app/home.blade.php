@@ -102,7 +102,7 @@
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="Global Package">ТАРИФНЫЕ ПАКЕТЫ</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Инвестируй вместе с нами. <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> это твой шанс на успех и финансовою свободу.</p>
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Инвестируй вместе с нами. <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> это твой шанс на успех и финансовую свободу.</p>
                         </div>
                     </div>
                 </div>

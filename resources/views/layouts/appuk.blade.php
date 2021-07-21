@@ -115,7 +115,7 @@
                             <div class="wgs-body">
                                 <ul class="wgs-links">
                                     <li><a href="{{route('page','pol')}}">Положення про конфіденційність</a></li>
-                                    <li><a href="#">Угоди публічної оферти</a></li>
+                                    <li><a href="#">Угода публічної оферти</a></li>
                                 </ul>
                             </div>
                         </div>

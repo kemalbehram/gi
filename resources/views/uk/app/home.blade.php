@@ -20,7 +20,7 @@
                                 <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Globinc</span></h1>
                                 <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style="padding-bottom: 10px;">шлях до успіху!</h3>
                             </div>
-                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Заробляй на різниці вартості крипто валют на світовому ринку, використовуючи технологічні розробки компанії <span style="color: white; font-weight: 900;">Globinc</span> в області AI. </p>
+                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Заробляй на різниці вартості кріптовалют на світовому ринку, використовуючи технологічні розробки компанії <span style="color: white; font-weight: 900;">Globinc</span> в області AI. </p>
                             <div class="cpn-action" >
                                 <a class="btn btn-primary btn-round " href="https://my.globinc.com/auth/register" style="font-size:15px; margin-bottom: 10px;">зареєструватися</a>
                                 <a class="btn btn-primary btn-thin btn-outline btn-auto btn-primary btn-round no-change " href="{{asset('../pdf/Globinc.pdf')}}"  target="_blank" style="font-size:15px; margin-bottom: 10px;">скачати презентацію</a>
@@ -351,7 +351,7 @@
                             <div class="nk-block-text pdb-r">
                                 <h2 class="title title-thin animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">ІНСТРУКЦІЯ ВИКОРИСТАННЯ <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span></h2>
                                 <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Для участі в програмі користувач повинен здійснити реєстрацію в особистому кабінеті, вказавши там ПІБ, номер телефону, поштову адресу і реферальний код, після чого необхідно верифікувати пошту.</p>
-                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".3" style="visibility: visible; animation-delay: 0.3s;">Пройдіть в розділ «рахунки», виберіть підрозділ «бонусний рахунок». В даному розділі необхідно згенерувати свій особистої номер крипто гаманця, на який ви зможете відправити крипто валюту.</p>
+                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".3" style="visibility: visible; animation-delay: 0.3s;">Пройдіть в розділ «рахунки», виберіть підрозділ «бонусний рахунок». В даному розділі необхідно згенерувати свій особистої номер кріптогаманця, на який ви зможете відправити кріптовалюту.</p>
                             </div><!-- .section-head @e -->
                             <div class="row gutter-vr-20px flex-wrap">
                                 <div class="col-sm-6">
@@ -410,7 +410,7 @@
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
                             <h2 class="title title-xl" title="УМОВИ">ПАРТНЕРСЬКА ПРОГРАМА</h2>
-                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Завдяки вдалій реферальной системі, твій кар'єрний ріст тепер залежить - тільки від твоєї активності.</p>
+                            <p class="lead" style="font-size: 1.4rem; color: #dabd75;">Завдяки вдалій реферальній системі, твій кар'єрний ріст тепер залежить - тільки від твоєї активності.</p>
                         </div>
 
                     </div>
@@ -423,7 +423,7 @@
                             <ul class="nav tab-nav tab-nav-btn-bdr-s2 justify-content-center justify-content-sm-between pb-4 pb-sm-5">
                                 <li><a class="active" data-toggle="tab" href="#tab-1-1">УМОВИ</a></li>
                                 <li class="tab-nav-sap d-none d-sm-block"></li>
-                                <li><a data-toggle="tab" href="#tab-1-2">БОНУС +</a></li>
+                                <li><a data-toggle="tab" href="#tab-1-2">БОНУС+</a></li>
                             </ul>
                         </div>
                     </div>
@@ -578,7 +578,7 @@
                                 <div class="progress-point" data-point="25">
                                     СТАРТ КОМПАНІЇ</div>
                                 <div class="progress-point" data-point="55">СТАЛИЙ РОЗВИТОК</div>
-                                <div class="progress-point" data-point="85">КРИПТО АКАДЕМІЯ</div>
+                                <div class="progress-point" data-point="85">КРІПТО АКАДЕМІЯ</div>
                             </div>
                         </div>
                     </div>
@@ -602,7 +602,6 @@
                     </div>
                 </div>
             </div>
-
         </section>
         <section class="section " id="tokensale">
             <div class="container">
@@ -780,7 +779,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-4">Як вивести кошти?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-4" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>Заявку на виведення грошових коштів можна залишити натиснувши кнопку висновок в розділі «в особистому кабінеті, при цьому необхідно буде вказати номер свого крипто гаманця в платіжній системі.</p>
+                                                    <p>Заявку на виведення грошових коштів можна залишити натиснувши кнопку "вивести" в розділі «в особистому кабінеті, при цьому необхідно буде вказати номер свого крипто гаманця в платіжній системі.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -788,7 +787,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-5">Як купити криптовалюта?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-5" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>В даний час в світі існує безліч варіантів як придбати крипто валюту, наприклад через популярні платіжні системи Пейєра, або крипто біржі. Якщо вам важко освоїти онлайн способи покупки крипто валюти то можна скористатися обмінними пунктами. Крім того, в системі передбачена функція внутрішнього перекладу, тому ви можете поповнити баланс через «платіжного агента» (клієнта з поповненим балансом, який зможе вам зі свого рахунку поповнити баланс ».
+                                                    <p>В даний час в світі існує безліч варіантів як придбати кріптовалюту, наприклад через популярні платіжні системи Пейєра, або крипто біржі. Якщо вам важко освоїти онлайн способи покупки крипто валюти то можна скористатися обмінними пунктами. Крім того, в системі передбачена функція внутрішнього перекладу, тому ви можете поповнити баланс через «платіжного агента» (клієнта з поповненим балансом, який зможе вам зі свого рахунку поповнити баланс ».
 
                                                     </p>
                                                 </div>

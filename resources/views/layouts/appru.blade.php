@@ -114,7 +114,7 @@
                             <h6 class="wgs-title"  style="color: #dabd75;">Документы</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links">
-                                    <li><a href="{{route('page','pol')}}">Положение о конфидециальности</a></li>
+                                    <li><a href="{{route('page','pol')}}">Положение о конфиденциальности</a></li>
                                     <li><a href="#">Соглашения публичной оферты</a></li>
                                 </ul>
                             </div>

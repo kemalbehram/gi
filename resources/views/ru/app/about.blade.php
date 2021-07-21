@@ -142,7 +142,7 @@
                                 </div>
 
                                 <div class="doc-text">
-                                    <h5 class="doc-title title-sm">ПОЛОЖЕНИЕ О КОНФИДЕЦИАЛЬНОСТИ</h5>
+                                    <h5 class="doc-title title-sm">ПОЛОЖЕНИЕ О КОНФИДЕНЦИАЛЬНОСТИ</h5>
 
                                    <div class="doc-lang">для всех пользователей </div>
                                 </div>
