@@ -405,7 +405,7 @@
                             <ul class="nav tab-nav tab-nav-btn-bdr-s2 justify-content-center justify-content-sm-between pb-4 pb-sm-5">
                                 <li><a class="active" data-toggle="tab" href="#tab-1-1">CONDITIONS</a></li>
                                 <li class="tab-nav-sap d-none d-sm-block"></li>
-                                <li><a data-toggle="tab" href="#tab-1-2">BONUS +</a></li>
+                                <li><a data-toggle="tab" href="#tab-1-2">BONUS+</a></li>
                             </ul>
                         </div>
                     </div>
