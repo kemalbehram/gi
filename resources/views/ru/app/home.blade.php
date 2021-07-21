@@ -82,7 +82,7 @@
                     </div>
                     <div class="col-lg-6 col-mb-10 order-lg-last">
                         <div class="nk-block-img">
-                            <a href="{{asset('../video/GLOBAL incom-1080p-210629.mp4')}}" class="nk-block-video-play  video-popup btn-play btn-play-s3">
+                            <a href="{{asset('../video/Globinc.mp4')}}" class="nk-block-video-play  video-popup btn-play btn-play-s3">
                                 <svg class="btn-play-icon-s2" viewBox="0 0 24 34"><path fill-rule="evenodd" d="M0.212,32.552 C0.427,32.851 0.769,33.010 1.117,33.010 C1.337,33.010 1.559,32.947 1.752,32.814 L23.521,17.879 C23.816,17.678 23.991,17.350 23.991,16.998 C23.991,16.646 23.816,16.319 23.521,16.115 L1.752,1.181 C1.415,0.950 0.972,0.922 0.606,1.107 C0.240,1.292 0.010,1.661 0.010,2.064 L0.010,22.480 C0.010,23.076 0.506,23.558 1.116,23.558 C1.727,23.558 2.222,23.076 2.222,22.480 L2.222,4.142 L20.963,16.998 L0.479,31.049 C-0.020,31.393 -0.140,32.066 0.212,32.552 Z"></path></svg>
                             </a>
                             <img src="{{asset('../images/app-screens/sc-large-a2.png')}}" alt="img" style="padding: 10px;">
@@ -645,8 +645,8 @@
                                     <div class="item pb-3">
                                         <div class="row justify-content-center gutter-vr-30px">
                                             <div class="nk-block-video tc-light">
-                                                <img src="{{asset('../images/youtube1.png')}}" alt="video">
-                                                <a href="https://www.youtube.com/watch?v=t3-WMpedDRw" class="nk-block-video-play  video-popup btn-play btn-play-s3">
+                                                <img src="{{asset('../images/start2.png')}}" alt="video">
+                                                <a href="https://www.youtube.com/watch?v=a4ld5Lv_b8k" class="nk-block-video-play  video-popup btn-play btn-play-s3">
                                                     <svg class="btn-play-icon-s2" viewBox="0 0 24 34"><path fill-rule="evenodd" d="M0.212,32.552 C0.427,32.851 0.769,33.010 1.117,33.010 C1.337,33.010 1.559,32.947 1.752,32.814 L23.521,17.879 C23.816,17.678 23.991,17.350 23.991,16.998 C23.991,16.646 23.816,16.319 23.521,16.115 L1.752,1.181 C1.415,0.950 0.972,0.922 0.606,1.107 C0.240,1.292 0.010,1.661 0.010,2.064 L0.010,22.480 C0.010,23.076 0.506,23.558 1.116,23.558 C1.727,23.558 2.222,23.076 2.222,22.480 L2.222,4.142 L20.963,16.998 L0.479,31.049 C-0.020,31.393 -0.140,32.066 0.212,32.552 Z"></path></svg>
                                                 </a>
                                             </div>
@@ -656,7 +656,7 @@
                                         <div class="row justify-content-center gutter-vr-30px">
                                             <div class="nk-block-video tc-light">
                                                 <img src="{{asset('../images/video/a2.png')}}" alt="video">
-                                                <a href="https://www.youtube.com/watch?v=uvKscmQCBNY" class="nk-block-video-play video-popup btn-play btn-play-s3">
+                                                <a href="https://www.youtube.com/watch?v=QvYE5CLqPHs" class="nk-block-video-play video-popup btn-play btn-play-s3">
                                                     <svg class="btn-play-icon-s2" viewBox="0 0 24 34"><path fill-rule="evenodd" d="M0.212,32.552 C0.427,32.851 0.769,33.010 1.117,33.010 C1.337,33.010 1.559,32.947 1.752,32.814 L23.521,17.879 C23.816,17.678 23.991,17.350 23.991,16.998 C23.991,16.646 23.816,16.319 23.521,16.115 L1.752,1.181 C1.415,0.950 0.972,0.922 0.606,1.107 C0.240,1.292 0.010,1.661 0.010,2.064 L0.010,22.480 C0.010,23.076 0.506,23.558 1.116,23.558 C1.727,23.558 2.222,23.076 2.222,22.480 L2.222,4.142 L20.963,16.998 L0.479,31.049 C-0.020,31.393 -0.140,32.066 0.212,32.552 Z"></path></svg>
                                                 </a>
                                             </div>
