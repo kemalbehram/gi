@@ -17,6 +17,33 @@
 {{--    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">--}}
 </head>
 <body class="nk-body body-wider bg-theme mode-onepage">
+<!-- Messenger Плагин чата Code -->
+<div id="fb-root"></div>
+
+<!-- Your Плагин чата code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
+
+<script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "100451318993145");
+    chatbox.setAttribute("attribution", "biz_inbox");
+
+    window.fbAsyncInit = function() {
+        FB.init({
+            xfbml            : true,
+            version          : 'v11.0'
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/ru_RU/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
 <div class="nk-wrap">
     <header class="nk-header page-header is-transparent is-sticky is-dark" id="header">
         <div class="header-main">
@@ -32,7 +59,7 @@
                             <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'en'])}}">En</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
                                 <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a></li>
-                                <li><a href="{{route('setlocale', ['lang' => 'uk'])}}">Uk</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a></li>
                             </ul>
                         </div>
                     @elseif(App\Http\Middleware\LocaleMiddleware::getLocale() === 'ru' )
@@ -40,12 +67,12 @@
                             <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
                                 <li><a href="{{route('setlocale', ['lang' => 'en'])}}">En</a></li>
-                                <li><a href="{{route('setlocale', ['lang' => 'uk'])}}">Uk</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a></li>
                             </ul>
                         </div>
                     @else
                         <div class="language-switcher language-switcher-s3 toggle-wrap">
-                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'uk'])}}">Uk</a>
+                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
                                 <li><a href="{{route('setlocale', ['lang' => 'en'])}}">En</a></li>
                                 <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a></li>
@@ -147,9 +174,8 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="copyright-text">
                         <ul class="d-flex justify-content-between align-items-center flex-wrap flex-md-nowrap">
-                            <li><a href="#">Особистий кабінет</a></li>
 
-                            <li><p>Globinc. Всі права захищені © 2020</p></li>
+                            <li><p>Реєстраційний номер - PLP021936, Юридична адреса - 7 Bell Yard, Лондон, Великобританія, WC2A 2JR. Globinc. Всі права захищені © 2021</p></li>
                         </ul>
                     </div>
                 </div>

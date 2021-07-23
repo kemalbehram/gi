@@ -137,7 +137,7 @@
                                         <h6>Повернення депозиту в кінці терміну <span  class="token-stage-bonus">ні</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Початок роботи<span  class="token-stage-bonus">18 днів</span></h6>
+                                        <h6>Початок роботи<span  class="token-stage-bonus"> 18 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <a href="#" class="btn btn-round btn-primary ">ІНВЕСТУВАТИ</a>

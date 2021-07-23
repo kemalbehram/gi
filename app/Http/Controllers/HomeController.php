@@ -37,7 +37,7 @@ class HomeController extends Controller
         $this->url = LocaleMiddleware::getLocale();
         if($this->url == 'ru'){
             return view('ru/app/home', compact('news'));
-        }elseif($this->url == 'uk'){
+        }elseif($this->url == 'ua'){
             return view('uk/app/home', compact('news'));
         }else{
             return view('en/app/home', compact('news'));
@@ -50,7 +50,7 @@ class HomeController extends Controller
         if($this->url == 'ru'){
             $page = Project::where('slag',$slag)->first();
             return view('ru/app/'.$page->view);
-        }elseif($this->url == 'uk'){
+        }elseif($this->url == 'ua'){
             $page = Project::where('slag',$slag)->first();
             return view('uk/app/'.$page->view);
         }else{
