@@ -38,26 +38,28 @@
                     <div class="row justify-content-center ">
                         <div class="col-lg-6 col-mb-10">
                             <div class="nk-block-text">
-                                <p>The first serious interest in cryptocurrencies appeared in the world community in 2016, when the liquidity of the cryptocurrency market began to form. At that moment, our team realized that this was the birth of a new earning opportunity like the dawn of the American stock market. Having the relevant experience in trading stocks on the stock market and their derivatives, we have assembled a team of economists, traders and programmers to create a trading system that allows us to show an acceptable share of profit on transactions.</p>
+                                <p>Globinc is a team of experienced economists, traders and programmers with many years of successful experience in trading stocks and their derivatives in the stock market, who have come together to show the world a leading trading system in terms of liquidity and profitability.</p>
                                 <p>
-                                    Accordingly, in 2017, we began our path of this development, on this path there was a lot of trial and error, lost money, changing teams of people working on the project. Someone left, someone is still with us. We started testing trading strategies during the period of calm in the global crypto market in 2019, the liquidity was extremely low and there was not enough trading conditions to receive adequate signals to enter the market.
+                                    The first serious interest in cryptocurrencies appeared in the world community in 2016, it was then that the cryptocurrency market began to form. At that moment, our future team realized that this was the birth of a new earning opportunity, like at the dawn of the American stock market.
                                 </p>
                                 <p>
-                                    In 2020, the pandemic gave us everything that we lacked so much, millions of people returned to the crypto market and began to carry out daily transactions of more than $ 300 million, volatility exceeded the threshold of 4 percent per day. And so where there is movement, there is profit. We did not succeed in bringing the team together in one place during the lockdown period, and we didn’t need it, because living on the ocean shore and work is much more pleasant than an office. And we finished the trading system in 2021 and launched it in combat mode. But there is no limit to perfection ...
+                                    In 2017 Globinc starts developing a trading system. It was a long-term process of collecting unique data of all profitable trades to create accurate algorithms that allow you to get the highest profit on trading on the world stock exchange. We began testing trading strategies during the period of calm in the global crypto market in 2019, liquidity was low and some trading conditions were lacking to receive the necessary signals to enter the market.
+                                </p>
+                                <p>
+                                    In 2020, the pandemic provided what was so lacking, millions of people returned to the crypto market and began to carry out daily transactions of more than $ 300 million, volatility exceeded the threshold of 4 percent per day. The Globinc trading system has shown incredible results that it's time to show the world.
                                 </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-mb-10">
                             <div class="nk-block-text">
+                                <h3>Globinc philosophy and mission</h3>
                                 <p>
-                                    The ideology of the development of the project implies the creation of its own ecosystem based on the purchase and sale of cryptocurrencies using arbitration on the main cryptocurrency exchanges of the world that meet the requirements of our trading system. Creation of conditions for the freedom of exchange of cryptoassets among the system participants and their withdrawal from the platform.</p>
+                                    The ideology of the project development implies the creation of its own ecosystem based on the purchase and sale of cryptocurrencies using arbitration transactions on the main crypto-exchanges of the world that meet the requirements of the trading system. Globinc creates conditions for the freedom of exchange of cryptoassets among system participants and their withdrawal from the platform.</p>
                                 <p>
                                     The platform is aimed at potential investors who want to invest their capital with minimal risks, as well as the distribution of platform resources among its users using a universal affiliate program.
                                 </p>
                                 <p>
-                                    The main mission is to provide partners and clients of the company with mechanisms for increasing their passive assets, transparency of these mechanisms. As well as freedom and ease of use of assets, knowledge of the industry.</p>
-                                <p>Also, the main priority is to open offices to study the global financial and crypto markets. In which our partners will gain deeper knowledge of the technical side of trading, which will allow them to plunge into real exchange trading on their own with an understanding of all aspects. Investing in knowledge today is to be successful tomorrow!
-                                </p>
+                                    The main mission is to provide partners and clients of the company with reliable mechanisms for increasing their passive assets, transparency of these mechanisms, freedom and ease of use of assets, knowledge of the industry. After all, the most valuable thing we have is every user of the system. You give us trading liquidity - we give you a guaranteed level of margin on every trade.</p>
                             </div>
                         </div>
                     </div>
@@ -69,7 +71,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="Timeline">Timeline</h2>
+                            <h2 class="title title-xl" title="Timeline">DEVELOPMENT Globinc</h2>
                         </div>
                     </div>
                 </div>
@@ -80,45 +82,38 @@
                         <div class="roadmap-line-s2"></div>
                         <div class="roadmap-slider has-carousel carousel-nav-center" data-blank="true" data-items="5" data-items-tab-l="4" data-items-tab-p="3" data-items-mobile="2" data-margin="-1" data-navs="true">
                             <div class="roadmap roadmap-s2 roadmap-i1 roadmap-finished">
-                                <h6 class="roadmap-year-s2">С1 2016</h6>
-                                <h5 class="title title-sm roadmap-date">Jan - Apr 2016</h5>
+                                <h6 class="roadmap-year-s2"></h6>
+                                <h5 class="title title-sm roadmap-date">2021</h5>
                                 <div class="roadmap-text">
-                                    <p>Team building <span style="color: black; font-weight: 900;">Globinc</span><span  style="color: #030303; "></span>, around ideas for creating a trading system.</p>
+                                    <p>entry into the market of the CIS countries, on-line start of the project around the world</p>
                                 </div>
                             </div>
                             <div class="roadmap roadmap-s2 roadmap-i2 roadmap-running">
-                                <h6 class="roadmap-year-s2">Q1 2017</h6>
-                                <h5 class="title title-sm roadmap-date">Jul - Aug 2018</h5>
+                                <h6 class="roadmap-year-s2"></h6>
+                                <h5 class="title title-sm roadmap-date">2022</h5>
                                 <div class="roadmap-text">
-                                    <p>Start of development of a trading system for the exchange of cryptoassets among participants.</p>
+                                    <p>opening of the first 30 offices in the largest capitals of the world</p>
                                 </div>
                             </div>
                             <div class="roadmap roadmap-s2 roadmap-i3">
-                                <h6 class="roadmap-year-s2">B1 2019</h6>
-                                <h5 class="title title-sm roadmap-date">Sep - Oct 2019</h5>
+                                <h6 class="roadmap-year-s2"></h6>
+                                <h5 class="title title-sm roadmap-date">2023 </h5>
                                 <div class="roadmap-text">
-                                    <p>Testing trading strategies during a period of low liquidity in the crypto market.</p>
+                                    <p>globalization of Globinc, creation of a full-fledged on-line banking infrastructure, obtaining a license for banking services for individuals and working with fiat money transfers </p>
                                 </div>
                             </div>
                             <div class="roadmap roadmap-s2 roadmap-i4">
-                                <h6 class="roadmap-year-s2">F1 2021</h6>
-                                <h5 class="title title-sm roadmap-date">Nov - Dec 2020</h5>
+                                <h6 class="roadmap-year-s2"></h6>
+                                <h5 class="title title-sm roadmap-date">2024</h5>
                                 <div class="roadmap-text">
-                                    <p>Launching the trading system in combat mode, analyzing the results.</p>
+                                    <p>the use of research and the application of artificial intelligence in the development of robotics</p>
                                 </div>
                             </div>
                             <div class="roadmap roadmap-s2 roadmap-i5">
-                                <h6 class="roadmap-year-s2">S1 2021</h6>
-                                <h5 class="title title-sm roadmap-date">Jan - Apr 2021</h5>
+                                <h6 class="roadmap-year-s2"></h6>
+                                <h5 class="title title-sm roadmap-date">2025</h5>
                                 <div class="roadmap-text">
-                                    <p>Opening offices to study the world's financial and crypto markets.</p>
-                                </div>
-                            </div>
-                            <div class="roadmap roadmap-s2 roadmap-i6">
-                                <h6 class="roadmap-year-s2">S2 2022</h6>
-                                <h5 class="title title-sm roadmap-date">Jul - Aug 2022</h5>
-                                <div class="roadmap-text">
-                                    <p>Opening of Blockchain Academies for Fundamental Analysis. Investing in knowledge today is to be successful tomorrow!</p>
+                                    <p>creation of our own institute for the study of artificial intelligence</p>
                                 </div>
                             </div>
                         </div>

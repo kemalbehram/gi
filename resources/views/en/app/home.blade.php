@@ -31,7 +31,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
                         <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Starting the project wery soon</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/07/29" data-day-text="Days" data-Hours-text="Hours" data-min-text="Minutes" data-sec-text="Seconds"></div>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/05" data-day-text="Days" data-Hours-text="Hours" data-min-text="Minutes" data-sec-text="Seconds"></div>
                     </div>
                 </div>
             </div>
@@ -121,10 +121,10 @@
                                         <h6>Refund of the deposit at the end of the term<span  class="token-stage-bonus"> no</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Beginning of work <span  class="token-stage-bonus">18 days</span></h6>
+                                        <h6>The first payment <span  class="token-stage-bonus">18 days</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">INVEST</a>
+                                        <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">INVEST</a>
                                     </div>
                                 </div>
                             </div>
@@ -154,10 +154,10 @@
                                         <h6>Refund of the deposit at the end of the term <span  class="token-stage-bonus"> no</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Beginning of work <span  class="token-stage-bonus">12 days</span></h6>
+                                        <h6>The first payment <span  class="token-stage-bonus">12 days</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">INVEST</a>
+                                        <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">INVEST</a>
                                     </div>
                                 </div>
                             </div>
@@ -187,10 +187,10 @@
                                         <h6>Refund of the deposit at the end of the term <span  class="token-stage-bonus"> no</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Beginning of work <span  class="token-stage-bonus">8 days</span></h6>
+                                        <h6>The first payment <span  class="token-stage-bonus">8 days</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">INVEST</a>
+                                        <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">INVEST</a>
                                     </div>
                                 </div>
                             </div>
@@ -223,7 +223,7 @@
                                             <div class="mt-apc__li-v" data-profit-calc="direct_bonus" id="packages">Global Start</div>
                                         </div>
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k">Beginning Of Work</div>
+                                            <div class="mt-apc__li-k">The first payment</div>
                                             <div class="mt-apc__li-v" data-profit-calc="binary_bonus"><span  id="beginningOfWork">18</span> days</div>
                                         </div>
                                         <div class="mt-apc__li">
@@ -232,7 +232,7 @@
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">Minimum Sum</div>
-                                            <div class="mt-apc__li-v" id="minimumSum">$100</div>
+                                            <div class="mt-apc__li-v" id="minimumSum">$151</div>
                                         </div>
                                         <br>
                                         <div class="mt-apc__li">
@@ -300,7 +300,7 @@
                             </div>
                         </div>
                         <div class="c-profit-calc__actions">
-                            <a href="#" class="btn btn-round btn-primary ">INVEST</a>
+                            <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">INVEST</a>
                         </div>
                     </div>
                 </div>
@@ -757,7 +757,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-3">Minimum withdrawal amount?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-3" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>The minimum withdrawal amount is $ 100.</p>
+                                                    <p>The minimum withdrawal amount is $ 151.</p>
                                                 </div>
                                             </div>
                                         </div>

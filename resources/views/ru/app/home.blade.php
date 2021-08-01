@@ -32,7 +32,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
                         <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Скоро старт проекта</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/07/29" data-day-text="Дней"   data-hour-text="Часов" data-min-text="Минут" data-sec-text="Секунд"></div>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/05" data-day-text="Дней"   data-hour-text="Часов" data-min-text="Минут" data-sec-text="Секунд"></div>
                     </div>
                 </div>
             </div>
@@ -137,10 +137,10 @@
                                         <h6>Возврат депозита в конце срока <span  class="token-stage-bonus">нет</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Начало работы <span  class="token-stage-bonus">18 дней</span></h6>
+                                        <h6>Первая выплата <span  class="token-stage-bonus">18 дней</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
+                                        <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
                                     </div>
                                 </div>
                             </div>
@@ -170,10 +170,10 @@
                                         <h6>Возврат депозита в конце срока <span  class="token-stage-bonus">нет</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Начало работы <span  class="token-stage-bonus">12 дней</span></h6>
+                                        <h6>Первая выплата <span  class="token-stage-bonus">12 дней</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
+                                        <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
                                     </div>
                                 </div>
                             </div>
@@ -203,10 +203,10 @@
                                         <h6>Возврат депозита в конце срока <span  class="token-stage-bonus">нет</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Начало работы <span  class="token-stage-bonus">8 дней</span></h6>
+                                        <h6>Первая выплата <span  class="token-stage-bonus">8 дней</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <a href="#" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
+                                        <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">ИНВЕСТИРОВАТЬ</a>
                                     </div>
                                 </div>
                             </div>
@@ -245,12 +245,12 @@
                                             <div class="mt-apc__li-v" id="sumToWithdraw">70%</div>
                                         </div>
                                         <div class="mt-apc__li">
-                                            <div class="mt-apc__li-k">Начало работы</div>
+                                            <div class="mt-apc__li-k">Первая выплата</div>
                                             <div class="mt-apc__li-v" data-profit-calc="binary_bonus"><span  id="beginningOfWork">18</span> дней</div>
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">Минимальная сумма</div>
-                                            <div class="mt-apc__li-v" id="minimumSum">$100</div>
+                                            <div class="mt-apc__li-v" id="minimumSum">$151</div>
                                         </div>
                                         <br>
                                         <div class="mt-apc__li">
@@ -317,7 +317,7 @@
                                 </div>
                             </div>
                             <div class="c-profit-calc__actions">
-                                <a href="#" class="btn btn-round btn-primary ">Инвестировать</a>
+                                <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary ">Инвестировать</a>
                             </div>
                         </div>
                     </div>
@@ -768,7 +768,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-3">Минимальная сумма вывода?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-3" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>Минимальной суммой для вывода является 100 долларов США.</p>
+                                                    <p>Минимальной суммой для вывода является 151 долларов США.</p>
                                                 </div>
                                             </div>
                                         </div>

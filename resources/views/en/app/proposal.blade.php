@@ -82,7 +82,7 @@
                                     </div>
                                 </div>
                                 <div class="text-center text-sm-left">
-                                    <a href="#" class="btn btn-round btn-primary">INVEST</a>
+                                    <a href="https://my.globinc.com/order/main" class="btn btn-round btn-primary">INVEST</a>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                     <tbody>
                                     <tr>
                                         <td  style="width:50%">PARTNER</td>
-                                        <td  style="width:25%">100</td>
+                                        <td  style="width:25%">151</td>
                                         <td  style="width:10%;">5</td>
                                         <td  style="width:15%"></td>
                                     </tr>
