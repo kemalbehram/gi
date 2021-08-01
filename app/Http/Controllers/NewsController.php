@@ -18,6 +18,8 @@ class NewsController extends Controller
             return view('ru/app/news', compact('news'));
         }elseif($this->url == 'ua'){
             return view('uk/app/news', compact('news'));
+        }elseif($this->url == 'cn'){
+            return view('cn/app/news', compact('news'));
         }else{
             return view('en/app/news', compact('news'));
         }
@@ -31,6 +33,8 @@ class NewsController extends Controller
             return view('ru/app/new', compact('news'));
         }elseif($this->url == 'ua'){
             return view('uk/app/new', compact('news'));
+        }elseif($this->url == 'cn'){
+            return view('cn/app/new', compact('news'));
         }else{
             return view('en/app/new', compact('news'));
         }

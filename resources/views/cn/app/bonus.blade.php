@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.appcn')
 @section('title', 'Globinc - Passive income on the crypto exchange.')
 @section('meta', 'Passive income✔ making incom on the Internet ✔ buy bitcoin ✔ everything about the crypto exchange - Globinc, your way to success.')
 @section('keywords', 'Passive income | Globinc')
@@ -14,8 +14,8 @@
                             <div class="col-xl-6 col-lg-9">
                                 <div class="banner-caption cpn tc-light text-center">
                                     <div class="section-head section-head-s2">
-                                        <h2 class="title title-xl" title="BONUS" style="color: #fff;"> BONUS +</h2>
-                                        <p>We are glad to announce that as part of the development of the Globinc platform, a profitable program has been launched that allows you to earn extra money for simple actions.</p>
+                                        <h2 class="title title-xl" title="BONUS" style="color: #fff;"> 獎金 +</h2>
+                                        <p>我們很高興地宣布，作為 Globinc 平台開發的一部分，已經啟動了一項有利可圖的計劃，讓您可以通過簡單的操作賺取額外的收入。</p>
                                     </div>
                                 </div>
                             </div>
@@ -36,7 +36,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-6">
                         <div class="section-head section-head-s2">
-                            <h2 class="title title-xl" title="Globinc"> TERMS OF ADDITIONAL EARNINGS</h2>
+                            <h2 class="title title-xl" title="Globinc"> 額外收入條款</h2>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Shoot a short video on Instagram Stories and share your Globinc investing experience</p>
+                                <p style="color: #dabd75;">在 Instagram Stories 上拍攝短片並分享您的 Globinc 投資經驗</p>
                             </div>
                         </div>
                     </div>
@@ -64,8 +64,8 @@
                                         <em class="icon ti ti-wallet"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Video requirements</h5>
-                                        <p>Stories should be at least 35 seconds long. The quality of the video should ensure readability of the content.</p>
+                                        <h5 class="title title-sm">視頻要求</h5>
+                                        <p>故事長度至少應為 35 秒。視頻的質量應確保內容的可讀性。</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline feature-md-reverse">
@@ -73,8 +73,8 @@
                                         <em class="icon ti ti-gift"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Video content requirements</h5>
-                                        <p>The video must contain frames from the personal account, the purchased package, the user's balance, accrued%.</p>
+                                        <h5 class="title title-sm">視頻內容要求</h5>
+                                        <p>視頻必須包含來自個人賬戶的幀、購買的套餐、用戶的餘額、累計百分比。</p>
                                     </div>
                                 </div>
                             </div>
@@ -84,8 +84,8 @@
                                         <em class="icon ti ti-world"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Publication requirements</h5>
-                                        <p>The publication must contain a link to the company's Instagram page, as well as hashtags.</p>
+                                        <h5 class="title title-sm">出版要求</h5>
+                                        <p>該出版物必須包含指向公司 Instagram 頁面的鏈接以及主題標籤。</p>
                                     </div>
                                 </div>
                                 <div class="feature feature-inline">
@@ -93,7 +93,7 @@
                                         <em class="icon ti ti-id-badge"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h5 class="title title-sm">Hashtags:</h5>
+                                        <h5 class="title title-sm">標籤:</h5>
                                         <p>#globinc <br>#passiveincome<br>#cryptoexchange<br>#earningsontheInternet</p>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Write an article on your visited resource and tell it about the advantages of the platform, share your opinion and give feedback.</p>
+                                <p style="color: #dabd75;">寫一篇關於您訪問過的資源的文章，並告訴它平台的優勢，分享您的意見並提供反饋。</p>
                             </div>
                         </div>
                     </div>
@@ -134,8 +134,8 @@
                                         <em class="icon icon-lg ikon ikon-cloud"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h4 class="title title-md title-dark">Location requirements:</h4>
-                                        <p>The post can be posted on your own Facebook page or on a personal information site or blog, the attendance of which must be at least 200 people. per day, or the number of subscribers must be at least 200 people.
+                                        <h4 class="title title-md title-dark">位置要求:</h4>
+                                        <p>該帖子可​​以發佈在您自己的Facebook頁面上，也可以發佈在個人信息網站或博客上，出席人數必須至少為200人。每天，或訂閱人數必須至少為 200 人。
                                         </p>
                                     </div>
                                 </div>
@@ -146,8 +146,8 @@
                                         <em class="icon icon-lg ikon ikon-safety"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <h4 class="title title-md title-dark">Post requirements:</h4>
-                                        <p>The article must contain at least 1000 characters, a link to the company's website, as well as screenshots of the personal account, the purchased package, the user's balance, accrued%.</p>
+                                        <h4 class="title title-md title-dark">崗位要求:</h4>
+                                        <p>文章必須包含至少1000個字符，公司網站的鏈接，以及個人賬戶截圖，購買的套餐，用戶餘額，累計百分比。</p>
                                     </div>
                                 </div>
                             </div><!-- .col -->
@@ -167,7 +167,7 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="section-head section-head-s2">
-                                <p style="color: #dabd75;">Shoot a video about the platform, with an active link, share your experience of investing in Globinc, post the video on YouTube.</p>
+                                <p style="color: #dabd75;">拍攝有關該平台的視頻，帶有活動鏈接，分享您投資Globinc 的經驗，將視頻發佈到YouTube。</p>
                             </div>
                         </div>
                     </div>
@@ -187,8 +187,8 @@
                                             <em class="icon ikon ikon-shiled-alt"></em>
                                         </div>
                                         <div class="feature-text">
-                                            <h5 class="title title-sm">Video requirements:</h5>
-                                            <p>Videos must be at least 35 seconds long. The quality of the video should ensure readability of the content.</p>
+                                            <h5 class="title title-sm">視頻要求:</h5>
+                                            <p>視頻長度必須至少為 35 秒。視頻的質量應確保內容的可讀性。</p>
                                         </div>
                                     </div>
                                     <div class="feature feature-s2">
@@ -196,8 +196,8 @@
                                             <em class="icon ikon ikon-user"></em>
                                         </div>
                                         <div class="feature-text">
-                                            <h5 class="title title-sm">Content requirements:</h5>
-                                            <p>The video must contain frames from the personal account, the purchased package, the user's balance, accrued%.</p>
+                                            <h5 class="title title-sm">內容要求:</h5>
+                                            <p>視頻必須包含來自個人賬戶的幀、購買的套餐、用戶的餘額、累計百分比。</p>
                                         </div>
                                     </div>
                                     <div class="feature feature-s2">
@@ -205,8 +205,8 @@
                                             <em class="icon ikon ikon-data-server"></em>
                                         </div>
                                         <div class="feature-text">
-                                            <h5 class="title title-sm">Publishing rules:</h5>
-                                            <p>When uploading a video to a channel, the author must fill in the summary field, provide a link to the company's website, as well as hashtags.</p>
+                                            <h5 class="title title-sm">發布規則:</h5>
+                                            <p>將視頻上傳到頻道時，作者必須填寫摘要字段，提供指向公司網站的鏈接以及主題標籤。</p>
                                         </div>
                                     </div>
                                 </div>

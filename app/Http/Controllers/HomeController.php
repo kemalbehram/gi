@@ -39,6 +39,8 @@ class HomeController extends Controller
             return view('ru/app/home', compact('news'));
         }elseif($this->url == 'ua'){
             return view('uk/app/home', compact('news'));
+        }elseif($this->url == 'cn'){
+            return view('cn/app/home', compact('news'));
         }else{
             return view('en/app/home', compact('news'));
         }
@@ -53,7 +55,11 @@ class HomeController extends Controller
         }elseif($this->url == 'ua'){
             $page = Project::where('slag',$slag)->first();
             return view('uk/app/'.$page->view);
-        }else{
+        }elseif($this->url == 'cn'){
+            $page = Project::where('slag',$slag)->first();
+            return view('cn/app/'.$page->view);
+        }
+        else{
             $page = Project::where('slag',$slag)->first();
             return view('en/app/'. $page->view);
         }

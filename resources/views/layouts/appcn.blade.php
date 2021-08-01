@@ -11,11 +11,11 @@
     <meta name="keywords" content="@yield('keywords')" />
     <link rel="stylesheet" href="{{ asset('css/vendor.bundle.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style-azalea-copy.css') }}" id="changeTheme">
-{{--    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">--}}
+    {{--    <link rel="stylesheet" href="{{ asset('css/theme.css') }}">--}}
     <link rel="stylesheet" href="{{ asset('css/cal.css') }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-{{--    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">--}}
 </head>
+
 <body class="nk-body body-wider bg-theme mode-onepage">
 <!-- Messenger Плагин чата Code -->
 <div id="fb-root"></div>
@@ -102,33 +102,32 @@
                         <nav class="header-menu" id="header-menu">
                             <ul class="menu">
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('home')}}">ГЛАВНАЯ</a>
+                                    <a class="" href="{{route('home')}}">主要的</a>
                                 </li>
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('page','about')}}">О НАС</a>
+                                    <a class="" href="{{route('page','about')}}">关于我们</a>
                                 </li>
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('page','proposal')}}">СОТРУДНИЧЕСТВО</a>
+                                    <a class="" href="{{route('page','proposal')}}">提议</a>
                                 </li>
                                 <li class="menu-item ">
-                                    <a class="" href="{{route('show.news.index')}}">НОВОСТИ</a>
+                                    <a class="" href="{{route('show.news.index')}}">消息</a>
                                 </li>
                             </ul>
                             <ul class="menu-btns">
-                                <li><a href="https://my.globinc.com/auth/login" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"><span>ВОЙТИ</span></a></li>
+                                <li><a href="https://my.globinc.com/auth/login" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"><span>登录</span></a></li>
                             </ul>
                             <ul class="menu-btns" >
-                                <li><a href="https://my.globinc.com/auth/register" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"  style="background-color: #dabd75!important; "><span >зарегистрироваться</span></a></li>
+                                <li><a href="https://my.globinc.com/auth/register" class="btn btn-md btn-thin btn-outline btn-auto btn-primary btn-round no-change"  style="background-color: #dabd75!important; "><span >注册</span></a></li>
                             </ul>
                         </nav>
                     </div><!-- .header-navbar @e -->
                 </div>
             </div>
         </div><!-- .header-main @e -->
-    @include('flash::message')
-    @yield('content')
+@include('flash::message')
+@yield('content')
 </body>
-
 <footer class="nk-footer bg-theme-grad has-ovm">
     <section class="section section-footer tc-light bg-transparent">
 
@@ -138,30 +137,30 @@
                 <div class="row justify-content-between">
                     <div class="col-sm-5 mb-sm-0 col-6">
                         <div class="wgs wgs-menu">
-                            <h6 class="wgs-title"  style="color: #dabd75;">Компания</h6>
+                            <h6 class="wgs-title"  style="color: #dabd75;">公司</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links">
-                                    <li><a href="{{route('page','proposal')}}">Сотрудничество</a></li>
-                                    <li><a href="{{route('show.news.index')}}">Новости</a></li>
-                                    <li><a href="{{route('page','about')}}">Благотворительность</a></li>
+                                    <li><a href="{{route('page','proposal')}}">合作</a></li>
+                                    <li><a href="{{route('show.news.index')}}">消息</a></li>
+                                    <li><a href="{{route('page','about')}}">慈善机构</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div><!-- .col -->
                     <div class="col-md-5 col-sm-4 mb-sm-0 col-6">
                         <div class="wgs wgs-menu">
-                            <h6 class="wgs-title"  style="color: #dabd75;">Документы</h6>
+                            <h6 class="wgs-title"  style="color: #dabd75;">文档</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links">
-                                    <li><a href="{{route('page','pol')}}">Положение о конфиденциальности</a></li>
-                                    <li><a href="#">Соглашения публичной оферты</a></li>
+                                    <li><a href="{{route('page','pol')}}">隐私声明</a></li>
+                                    <li><a href="#">公开发售协议</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div><!-- .col -->
                     <div class="col-sm-2 mb-sm-0 col-6">
                         <div class="wgs wgs-menu">
-                            <h6 class="wgs-title"  style="color: #dabd75;">Отслеживать</h6>
+                            <h6 class="wgs-title"  style="color: #dabd75;">社交网络</h6>
                             <div class="wgs-body">
                                 <ul class="wgs-links" style="">
                                     <a href="https://www.instagram.com/globinclp" style="padding: 10px;"><em class="fab fa-instagram"></em></a>
@@ -178,16 +177,17 @@
     <div class="section section-m footer-bottom">
         <div class="container">
             <div class="row justify-content-md-between align-items-center">
-                <div class="header-logo logo">
-                    <a href="{{route('home')}}" class="logo-link">
-                        <h3 style=""><img style="" src="{{asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Globinc</span><span  style="color: white; font-weight: 300;"></span></h3>
-                    </a>
+                <div class="col-lg-6 col-md-3 col-sm-4">
+                    <div class="header-logo logo">
+                        <a href="{{route('home')}}" class="logo-link">
+                            <h3 style=""><img style="" src="{{ asset('../images/len.png')}}"><span style="margin-left: 10px; color: white; font-weight: 900;">Globinc</span><span  style="color: white; font-weight: 300;"></span></h3>
+                        </a>
+                    </div>
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <div class="copyright-text">
                         <ul class="d-flex justify-content-between align-items-center flex-wrap flex-md-nowrap">
-
-                            <li><p>Регистрационный номер - PLP021936, Юридический адрес - 7 Bell Yard, Лондон, Великобритания, WC2A 2JR. Globinc. Все права защищены © 2021</p></li>
+                            <li><p>注册号 - №LP021936，法定地址 - 7 Bell Yard, London United Kingdom, WC2A 2JR。版权所有 © 2021</p></li>
                         </ul>
                     </div>
                 </div>
@@ -196,28 +196,28 @@
     </div>
     <div class="nk-ovm shape-b"></div>
 </footer>
-        <wrapper>
-            <div class="dws">
-                <a href="{{route('show.news.index')}}">
-                <div class="pulse">
-                    <div class="bloc"></div>
-                    <div class="phone"><i class="fa fa-clone " aria-hidden="true"></i></div>
-                    <div class="text">последние новости</div>
-                </div>
-                </a>
+<wrapper>
+    <div class="dws">
+        <a href="{{route('show.news.index')}}">
+            <div class="pulse">
+                <div class="bloc"></div>
+                <div class="phone"><i class="fa fa-clone " aria-hidden="true"></i></div>
+                <div class="text">last news</div>
             </div>
-        </wrapper>
-        <div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
-            <div class="ovm-line"></div>
-        </div>
-        <div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/bitcoin2.png')}}"></span></div>
-        <script src="{{ asset('js/cal.js') }}"></script>
-        <script src="{{ asset('js/classie.js') }}"></script>
-        <script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>
-        <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
-        @yield('script')
-        <script src="{{ asset('js/scripts.js?ver=1930') }}"></script>
-        <script src="{{ asset('js/charts.js') }}"></script>
-        <script src="{{ asset('js/toastr.examples.js?ver=1930')}}"></script>
-
+        </a>
+    </div>
+</wrapper>
+<div class="nk-ovm nk-ovm-repeat nk-ovm-fixed shape-i">
+    <div class="ovm-line"></div>
+</div>
+<div class="preloader preloader-alt no-split"><span class="spinner spinner-alt"><img class="spinner-brand" src="{{asset('../images/bitcoin2.png')}}"></span></div>
+<script src="{{ asset('js/cal.js') }}"></script>
+<script src="{{ asset('js/classie.js') }}"></script>
+<script src="{{ asset('js/jquery.bundle.js?ver=1930') }}"></script>
+<script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
+@yield('script')
+<script src="{{ asset('js/scripts.js?ver=1930') }}"></script>
+<script src="{{ asset('js/charts.js') }}"></script>
+<script src="{{ asset('js/toastr.examples.js?ver=1930')}}"></script>
 </html>
+

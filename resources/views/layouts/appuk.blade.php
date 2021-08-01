@@ -56,16 +56,27 @@
                     </div>
                     @if (App\Http\Middleware\LocaleMiddleware::getLocale() === null )
                         <div class="language-switcher language-switcher-s3 toggle-wrap">
-                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'en'])}}">En</a>
+                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'en'])}}">EN</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
-                                <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'cn'])}}">CN</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">RU</a></li>
                                 <li><a href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a></li>
                             </ul>
                         </div>
                     @elseif(App\Http\Middleware\LocaleMiddleware::getLocale() === 'ru' )
                         <div class="language-switcher language-switcher-s3 toggle-wrap">
-                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a>
+                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'ru'])}}">RU</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
+                                <li><a href="{{route('setlocale', ['lang' => 'cn'])}}">CN</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'en'])}}">EN</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a></li>
+                            </ul>
+                        </div>
+                    @elseif(App\Http\Middleware\LocaleMiddleware::getLocale() === 'cn' )
+                        <div class="language-switcher language-switcher-s3 toggle-wrap">
+                            <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'cn'])}}">CN</a>
+                            <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
+                                <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">RU</a></li>
                                 <li><a href="{{route('setlocale', ['lang' => 'en'])}}">En</a></li>
                                 <li><a href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a></li>
                             </ul>
@@ -74,8 +85,9 @@
                         <div class="language-switcher language-switcher-s3 toggle-wrap">
                             <a  class=" toggle-tigger" href="{{route('setlocale', ['lang' => 'ua'])}}">UA</a>
                             <ul class="toggle-class toggle-drop text-center drop-list drop-list-xs">
-                                <li><a href="{{route('setlocale', ['lang' => 'en'])}}">En</a></li>
-                                <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">Ru</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'cn'])}}">CN</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'en'])}}">EN</a></li>
+                                <li><a href="{{route('setlocale', ['lang' => 'ru'])}}">RU</a></li>
                             </ul>
                         </div>
                     @endif
