@@ -129,7 +129,7 @@
                                       <tbody>
                                         <tr>
                                             <td  style="width:50%">ПАРТНЕР</td>
-                                            <td  style="width:25%">151</td>
+                                            <td  style="width:25%">100</td>
                                             <td  style="width:10%;">5</td>
                                             <td  style="width:15%"></td>
                                         </tr>

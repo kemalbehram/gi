@@ -23,6 +23,7 @@
                             <p class="lead" style="font-size: 1.3rem; color: #dabd75;">使用公司在人工智能领域的技术发展  <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span> 从世界市场上加密货币的价值差异中获利</p>
                             <div class="cpn-action" >
                                 <a class="btn btn-primary btn-round " href="https://my.globinc.com/auth/register" style="font-size:15px; margin-bottom: 10px;">注册</a>
+                                <a class="btn btn-primary btn-thin btn-outline btn-auto btn-primary btn-round no-change " href="{{asset('../pdf/Globinccn.pdf')}}"  target="_blank" style="font-size:15px; margin-bottom: 10px;">下載演示文稿</a>
                             </div>
                             <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style=" ">每月利润 是<span  style="font-weight: 900; color: #dabd75; font-size: 59px; ">  30%</span></h3>
                         </div>
@@ -100,7 +101,7 @@
                                     <img class="shadow rounded" src="{{asset('../images/s1.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL START</div>
                                     <div class="token-stage-date">
-                                        <h6>最低金额 <span  class="token-stage-bonus">$151</span></h6>
+                                        <h6>最低金额 <span  class="token-stage-bonus">$100</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>最高金额 <span  class="token-stage-bonus">$999</span></h6>
@@ -232,7 +233,7 @@
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">最低金额</div>
-                                            <div class="mt-apc__li-v" id="minimumSum">$151</div>
+                                            <div class="mt-apc__li-v" id="minimumSum">$100</div>
                                         </div>
                                         <br>
                                         <div class="mt-apc__li">
@@ -757,7 +758,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-3">最低提款金额是多少？<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-3" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>最低提款金额为 151 美元</p>
+                                                    <p>最低提款金额为 50 美元</p>
                                                 </div>
                                             </div>
                                         </div>

@@ -15,7 +15,7 @@
                         </div>
                     </div><!-- .col -->
                     <div class="col-xl-8 col-lg-6 col-sm-10 text-center text-lg-left">
-                        <div class="banner-caption">
+                        <div class="banner-caption  animated fadeInUp">
                             <div class="section-head section-head-s2" style="padding-bottom: 10px;">
                                 <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Globinc</span></h1>
                                 <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style="padding-bottom: 10px;">шлях до успіху!</h3>
@@ -116,7 +116,7 @@
                                     <img class="shadow rounded" src="{{asset('../images/s1.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL START</div>
                                     <div class="token-stage-date">
-                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$151</span></h6>
+                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$100</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Максимальна сума <span  class="token-stage-bonus">$999</span></h6>
@@ -250,7 +250,7 @@
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">Мінімальна сума</div>
-                                            <div class="mt-apc__li-v" id="minimumSum">$151</div>
+                                            <div class="mt-apc__li-v" id="minimumSum">$100</div>
                                         </div>
                                         <br>
                                         <div class="mt-apc__li">
@@ -771,7 +771,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-3">Мінімальна сума виводу?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-3" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>Мінімальною сумою для виведення є 151 доларів США.</p>
+                                                    <p>Мінімальною сумою для виведення є 50 доларів США.</p>
                                                 </div>
                                             </div>
                                         </div>

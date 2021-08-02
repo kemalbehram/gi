@@ -100,7 +100,7 @@
                                     <img class="shadow rounded" src="{{asset('../images/s1.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL START</div>
                                     <div class="token-stage-date">
-                                        <h6>Minimum sum <span  class="token-stage-bonus">$151</span></h6>
+                                        <h6>Minimum sum <span  class="token-stage-bonus">$100</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Maximum sum <span  class="token-stage-bonus">$999</span></h6>
@@ -232,7 +232,7 @@
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">Minimum Sum</div>
-                                            <div class="mt-apc__li-v" id="minimumSum">$151</div>
+                                            <div class="mt-apc__li-v" id="minimumSum">$100</div>
                                         </div>
                                         <br>
                                         <div class="mt-apc__li">
@@ -757,7 +757,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-3">Minimum withdrawal amount?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-3" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>The minimum withdrawal amount is $ 151.</p>
+                                                    <p>The minimum withdrawal amount is $ 50.</p>
                                                 </div>
                                             </div>
                                         </div>

@@ -15,8 +15,20 @@
     <link rel="stylesheet" href="{{ asset('css/cal.css') }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 {{--    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">--}}
+<!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KWM6MK8');</script>
+    <!-- End Google Tag Manager -->
 </head>
+
 <body class="nk-body body-wider bg-theme mode-onepage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWM6MK8"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <!-- Messenger Плагин чата Code -->
 <div id="fb-root"></div>
 
