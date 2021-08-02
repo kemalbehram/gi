@@ -109,6 +109,9 @@
                                         <h6>每天利润是 <span  class="token-stage-bonus">1%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
+                                        <h6>工作期限 <span  class="token-stage-bonus">365 天</span></h6>
+                                    </div>
+                                    <div class="token-stage-date">
                                         <h6>总和提取是 <span  class="token-stage-bonus">70%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
@@ -139,6 +142,9 @@
                                         <h6>每天利润是 <span  class="token-stage-bonus">1%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
+                                        <h6>工作期限 <span  class="token-stage-bonus">365 天</span></h6>
+                                    </div>
+                                    <div class="token-stage-date">
                                         <h6>总和提取是 <span  class="token-stage-bonus">80%</span></h6>
                                     </div>
                                     <div class="token-stage-date">
@@ -167,6 +173,9 @@
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>每天利润是 <span  class="token-stage-bonus">1%</span></h6>
+                                    </div>
+                                    <div class="token-stage-date">
+                                        <h6>工作期限 <span  class="token-stage-bonus">365 天</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>总和提取是 <span  class="token-stage-bonus">90%</span></h6>

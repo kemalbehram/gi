@@ -122,7 +122,7 @@
                                         <h6>Максимальная сумма <span  class="token-stage-bonus">$999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Количество покупок <span  class="token-stage-bonus">2</span></h6>
+                                        <h6>Срок работы <span  class="token-stage-bonus">365 дней</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Доход в день <span  class="token-stage-bonus">1%</span></h6>
@@ -155,7 +155,7 @@
                                         <h6>Максимальная сумма <span  class="token-stage-bonus">$4999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Количество покупок <span  class="token-stage-bonus">неограниченно</span></h6>
+                                        <h6>Срок работы <span  class="token-stage-bonus">365 дней</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Доход в день <span  class="token-stage-bonus">1%</span></h6>
@@ -188,7 +188,7 @@
                                         <h6>Максимальная сумма <span  class="token-stage-bonus">неограниченно</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Количество покупок <span  class="token-stage-bonus">неограниченно</span></h6>
+                                        <h6>Срок работы <span  class="token-stage-bonus">365 дней</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Доход в день <span  class="token-stage-bonus">1%</span></h6>

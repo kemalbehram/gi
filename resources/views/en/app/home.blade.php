@@ -106,7 +106,7 @@
                                         <h6>Maximum sum <span  class="token-stage-bonus">$999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Number of purchases <span  class="token-stage-bonus">2</span></h6>
+                                        <h6>Term of the work <span  class="token-stage-bonus">365 days</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Profit per day <span  class="token-stage-bonus">1%</span></h6>
@@ -139,7 +139,7 @@
                                         <h6>Maximum sum <span  class="token-stage-bonus">$4999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Number of purchases <span  class="token-stage-bonus">unlimited</span></h6>
+                                        <h6>Term of the work<span  class="token-stage-bonus">365 days</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Profit per day <span  class="token-stage-bonus">1%</span></h6>
@@ -172,7 +172,7 @@
                                         <h6>Maximum sum <span  class="token-stage-bonus">unlimited</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Number of purchases <span  class="token-stage-bonus">unlimited</span></h6>
+                                        <h6>Term of the work <span  class="token-stage-bonus">365 days</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Profit per day <span  class="token-stage-bonus">1%</span></h6>

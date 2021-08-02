@@ -116,13 +116,13 @@
                                     <img class="shadow rounded" src="{{asset('../images/s1.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL START</div>
                                     <div class="token-stage-date">
-                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$100</span></h6>
+                                        <h6>Мінімальна сума <span  class="token-stage-bonus">$151</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Максимальна сума <span  class="token-stage-bonus">$999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Кількість покупок <span  class="token-stage-bonus">2</span></h6>
+                                        <h6>Термін роботи <span  class="token-stage-bonus">365 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Дохід в день <span  class="token-stage-bonus">1%</span></h6>
@@ -155,7 +155,7 @@
                                         <h6>Максимальна сума <span  class="token-stage-bonus">$4999</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Кількість покупок <span  class="token-stage-bonus">необмежено</span></h6>
+                                        <h6>Термін роботи <span  class="token-stage-bonus">365 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Дохід в день <span  class="token-stage-bonus">1%</span></h6>
@@ -188,7 +188,7 @@
                                         <h6>Максимальна сума <span  class="token-stage-bonus">необмежено</span></h6>
                                     </div>
                                     <div class="token-stage-date">
-                                        <h6>Кількість покупок <span  class="token-stage-bonus">необмежено</span></h6>
+                                        <h6>Термін роботи  <span  class="token-stage-bonus">365 днів</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Дохід в день <span  class="token-stage-bonus">1%</span></h6>
