@@ -116,7 +116,7 @@
                                     <img class="shadow rounded" src="{{asset('../images/s1.png')}}" alt="" style="width: 100%;">
                                     <div class="token-stage-title token-stage-pre" style="color:#000">GLOBAL START</div>
                                     <div class="token-stage-date">
-                                        <h6>Минимальная сумма <span  class="token-stage-bonus">$100</span></h6>
+                                        <h6>Минимальная сумма <span  class="token-stage-bonus">$151</span></h6>
                                     </div>
                                     <div class="token-stage-date">
                                         <h6>Максимальная сумма <span  class="token-stage-bonus">$999</span></h6>
