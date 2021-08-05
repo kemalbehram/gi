@@ -178,7 +178,7 @@
                                 <ul class="wgs-links" style="">
                                     <a href="https://www.instagram.com/globinclp" style="padding: 10px;"><em class="fab fa-instagram"></em></a>
                                     <a href="https://www.facebook.com/globinclp" style="padding: 10px;"><em class="fab fa-facebook-f"></em></a>
-                                    <a href="https://www.youtube.com/channel/UC0nJBiWprh27xrPh09Su_JA" style="padding: 10px;"><em class="fab fa-youtube"></em></a>
+                                    <a href="https://www.youtube.com/channel/UCQR35ptklYlc8xXa5W6r1Ng/videos" style="padding: 10px;"><em class="fab fa-youtube"></em></a>
                                 </ul>
                             </div>
                         </div>
