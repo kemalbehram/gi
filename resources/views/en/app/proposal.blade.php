@@ -115,10 +115,10 @@
                                 <table cellpadding="0" cellspacing="0" border="0">
                                     <thead>
                                     <tr>
-                                        <th style="width:50%; color:#fff;">Business parter</th>
-                                        <th style="width:25%; color:#fff;">Additional sum,$</th>
-                                        <th style="width:10%; color:#fff;">%</th>
-                                        <th style="width:15%; color:#fff;">Prize,$</th>
+                                        <th style="width:50%; color:#fff;">Levels</th>
+                                        <th style="width:25%; color:#fff;">Amount of network purchases</th>
+                                        <th style="width:10%; color:#fff;">% of network purchases</th>
+                                        <th style="width:15%; color:#fff;">Bonus in USD</th>
                                     </tr>
                                     </thead>
                                 </table>

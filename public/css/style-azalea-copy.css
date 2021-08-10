@@ -1714,7 +1714,7 @@ hr { position: relative; z-index: 5; }
 
 .btn-download img { height: 100%; }
 
-.btn-outline:not(:hover) { color: #305082; background-color: transparent !important; }
+.btn-outline:not(:hover) { color: #dabd75; background-color: transparent !important; }
 
 .btn-outline:before { background-image: none; background-color: #fff; opacity: 1; margin: 2px; width: calc(100% - 4px); height: calc(100% - 4px); }
 
@@ -1784,11 +1784,11 @@ hr { position: relative; z-index: 5; }
 
 .btn-danger.btn-outline:hover { background-color: #e6604a; border-color: #e6604a; }
 
-.btn-dark { background-color: #305082; border-color: #305082; }
+.btn-dark { background-color: #dabd75; border-color: #dabd75; }
 
-.btn-dark:hover { background-color: #142238; border-color: #142238; }
+.btn-dark:hover { background-color: #e2bb5c; border-color: #dabd75 !important; }
 
-.btn-dark.btn-outline:hover { background-color: #305082; border-color: #305082; }
+.btn-dark.btn-outline:hover { background-color: #dabd75; border-color: #dabd75; }
 
 .btn-theme-dark { background-color: rgba(0, 0, 0, 0.2); border-color: rgba(0, 0, 0, 0); }
 
@@ -6218,7 +6218,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .download-option { text-align: center; position: relative; padding: 10px; margin: 15px 0; }
 
-.download-option .icon { display: block; padding-bottom: 35px; font-size: 44px; color: #305082; }
+.download-option .icon { display: block; padding-bottom: 35px; font-size: 44px; color: #dabd75 !important; }
 
 @media (min-width: 992px) { .download-option:not(:last-child):after { position: absolute; content: ''; right: 0; top: 50%; transform: translateY(-50%); height: 100%; width: 1px; background: rgba(162, 179, 205, 0.3); } }
 

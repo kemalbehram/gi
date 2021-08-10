@@ -79,7 +79,7 @@
                                         <em class="icon icon-xs icon-circle fas fa-check"></em>
                                     </div>
                                     <div class="feature-text">
-                                        <p>Регламент обработки заявки 72 часа. Подача новой заявки на вывод средств возможна, если предыдущая заявка обработана.</p>
+                                        <p>Регламент обробки заявки 72 години. Подача нової заявки на виведення коштів можлива, якщо попередня заявка оброблена.</p>
                                     </div>
                                 </div>
                                 <div class="text-center text-sm-left">
@@ -116,10 +116,10 @@
                                     <table cellpadding="0" cellspacing="0" border="0">
                                       <thead>
                                         <tr>
-                                           <th style="width:50%; color:#fff;">Бізнес-партнер</th>
-                                            <th style="width:25%; color:#fff;">Нарахування,$</th>
-                                            <th style="width:10%; color:#fff;">%</th>
-                                            <th style="width:15%; color:#fff;">Премія,$</th>
+                                           <th style="width:50%; color:#fff;">Ранги</th>
+                                            <th style="width:25%; color:#fff;">Сума покупок мережі</th>
+                                            <th style="width:10%; color:#fff;">% від покупок мережі</th>
+                                            <th style="width:15%; color:#fff;">Премії</th>
                                         </tr>
                                       </thead>
                                     </table>

@@ -32,7 +32,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
                         <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Скоро старт проекта</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/05" data-day-text="Дней"   data-hour-text="Часов" data-min-text="Минут" data-sec-text="Секунд"></div>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/17" data-day-text="Дней"   data-hour-text="Часов" data-min-text="Минут" data-sec-text="Секунд"></div>
                     </div>
                 </div>
             </div>
@@ -402,6 +402,85 @@
 
         </section>
         <!-- // -->
+        <section class="section section-team ">
+            <div class="container">
+
+                <!-- Section Head @s -->
+                <div class="section-head text-center wide-auto-sm">
+                    <h2 class="title title-lg title-dark">Как наблюдать за результатами торгов искусственного интеллекта? </h2>
+                    <p>Наш пользовательский интерфейс торговли в реальном времени доступен в MetaTrade 5.
+                    </p>
+                </div><!-- .section-head @e -->
+                <div class="nk-block">
+                    <div class="row align-items-center justify-content-between gutter-vr-40px">
+                        <div class="col-lg-5">
+                            <ul class="nav tab-nav tab-nav-s3 tab-nav-vr mr-lg-3">
+                                <li><a  class="active" data-toggle="tab" href="#tab-1-2" class="">
+                                        <h5 class="title-md">Пополнение торгового счета</h5>
+                                        <p>Уникальность проекта в том что после пополнения счета вы имеете возможность следить за торговлей в  режиме реального времени, проверять свои торговые сделки, считать прибыль, анализировать действия искусственного интеллекта.
+                                        </p>
+                                    </a></li>
+                                <li><a data-toggle="tab" href="#tab-1-3" class="">
+                                        <h5 class="title-md">Вход в MetaTrade 5</h5>
+                                        <p>Скачайте на ваше устройство MT5, укажите логин и пароль, который вам пришел на почту при регистрации. Каждый клиент компании Globinc имеет возможность бесплатно использовать лучшие инструменты для анализа фондовых рынков.
+                                        </p>
+                                    </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="tab-content">
+                                <div class="tab-pane fade active show" id="tab-1-2">
+                                    <div class="nk-block-screen">
+                                        <img class="nk-block-screen-large" src="{{asset('images/app-screens/put.png')}}" alt="" style="border: none !important;">
+                                        <img class="nk-block-screen-small animated fadeInUp" data-animate="fadeInUp" data-delay=".3" src="{{asset('images/app-screens/put2.png')}}" alt="" style="visibility: visible; animation-delay: 0.3s; border: none !important;">
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="tab-1-3">
+                                    <div class="nk-block-screen">
+                                        <img class="nk-block-screen-large" src="{{asset('images/app-screens/mt5little.png')}}" alt="" style="border: none !important;">
+                                        <img class="nk-block-screen-small animated fadeInUp" data-animate="fadeInUp" data-delay=".3" src="{{asset('images/app-screens/iphone_main.png')}}" alt="" style="visibility: visible; animation-delay: 0.3s; border: none !important;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .row -->
+                </div>
+
+            </div>
+        </section>
+
+        <section class="section section-partners " id="partners">
+            <div class="container">
+                <!-- Section Head @s -->
+                <div class="section-head text-center wide-auto-xs">
+                    <h2 class="title title-lg title-dark">Скачать MetaTrade 5</h2>
+                    <p></p>
+                </div><!-- .section-head @e -->
+                <!-- Block @s -->
+                <div class="nk-block block-partners card" style="background-image: linear-gradient(to right, #0f1932 0%, #202b47 100%) !important;">
+                    <div class="row align-items-center">
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-windows"></em>
+                            <a href="https://download.mql5.com/cdn/web/webears.ltd/mt5/webears5setup.exe" class="btn btn-outline btn-dark btn-md">Windows</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-apple"></em>
+                            <a href="https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/MetaTrader5.dmg" class="btn btn-outline btn-dark btn-md">Mac OS</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-android"></em>
+                            <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=uk&referrer=ref_id%3d5192679640768859787" class="btn btn-outline btn-dark btn-md">Android</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-apple"></em>
+                            <a href="https://apps.apple.com/gb/app/metatrader-5-forex-stocks/id413251709" class="btn btn-outline btn-dark btn-md">IOS</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Block @e -->
+            </div>
+
+        </section>
         <section class="section" id="platform">
 
             <div class="container">
@@ -510,6 +589,7 @@
                 </div>
             </div><!-- .container -->
         </section>
+
         <section class="section section-wallet" id="app-download">
             <div class="container">
                 <div class="row justify-content-center text-center">
@@ -824,7 +904,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-3">Почему ваша компания торгует именно криптовалютами? <span class="accordion-icon"></span></h5>
                                             <div id="acc-4-3" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>В последнее время рынок криптовалют сильно вырос, его капитализация превысила $2 трлн, передовые американские инвест дома создали подразделения по торговле крипто валютами такие как JP Morgan Chase, Goldman Sacks, Bank of America, популярность биткиона привели к его использованию такие платежные системы как Pay Pall, автопроизводитель тесла стал принимать биткоины в качестве оплаты за автомобили. Легализация крипто валют во всем мире повышает ликвидность рынка крипто валют и позволяет торговать большими объемами и получать больший профит.</p>
+                                                    <p>В последнее время рынок криптовалют сильно вырос, его капитализация превысила 1 триллион долларов США, передовые американские инвестиционные дома создали подразделения по торговле крипто валютами такие как JP Morgan Chase, Goldman Sacks, Bank of America, популярность биткоина привели к его использованию такие платежные системы как Pay Pall, автопроизводитель тесла стал принимать биткоины в качестве оплаты за автомобили. Легализация крипто валют во всем мире повышает ликвидность рынка крипто валют и позволяет торговать большими объемами и получать больший профит.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -856,7 +936,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-7">Почему вы принимаете деньги и выводите только в криптовалюте. А не используете платежные системы?<span class="accordion-icon"></span></h5>
                                             <div id="acc-4-7" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Тут все очень легко, все платежные системы имеют множество ограничений для разных стран, в частности для трансграничных платежей, кроме того платежные системы могут самостоятельно блокировать пользователей и диктовать свои условия. Таких ограничений нет у крипто валют, это настоящая свобода. Как свобода воли что ты делаешь со своими активами так и свобода переводов. При этом, мы ка компания умеющая и считающая деньги, не хотим отдавать ваши и наши деньги за облуживание платежных систем. Вы наверное не знали что платежные системы берут за транзакции по 4 процента, и за ввод и вывод иногда процента доходят до 10. Мы конечно можем внедрить такие решения, но только за ваш счет. Мы думаем, что никому это не интересно, потому что мы за профит и максимально оптимизируем все бизнес процессы.</p>
+                                                    <p>Тут все очень легко, все платежные системы имеют множество ограничений для разных стран, в частности для трансграничных платежей, кроме того платежные системы могут самостоятельно блокировать пользователей и диктовать свои условия. Таких ограничений нет у крипто валют, это настоящая свобода. Как свобода воли что ты делаешь со своими активами так и свобода переводов. При этом, мы ка компания умеющая и считающая деньги, не хотим отдавать ваши и наши деньги за обслуживание платежных систем. Вы наверное не знали что платежные системы берут за транзакции по 4 процента, и за ввод и вывод иногда процента доходят до 10. Мы конечно можем внедрить такие решения, но только за ваш счет. Мы думаем, что никому это не интересно, потому что мы за профит и максимально оптимизируем все бизнес процессы.</p>
                                                 </div>
                                             </div>
                                         </div>

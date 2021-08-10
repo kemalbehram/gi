@@ -20,7 +20,7 @@
                                 <h1 class="title title-xl title-glob ns" title="" style=""><span style="color: white; font-weight: 900;">Globinc</span></h1>
                                 <h3 class="title title-xl title-glob" title="В БУДУЩЕЕ" style="padding-bottom: 10px;">шлях до успіху!</h3>
                             </div>
-                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Заробляй на різниці вартості кріптовалют на світовому ринку, використовуючи технологічні розробки компанії <span style="color: white; font-weight: 900;">Globinc</span> в області AI. </p>
+                            <p class="lead" style="font-size: 1.3rem; color: #dabd75;">Заробляй на різниці вартості криптовалют на світовому ринку, використовуючи технологічні розробки компанії <span style="color: white; font-weight: 900;">Globinc</span> в області AI. </p>
                             <div class="cpn-action" >
                                 <a class="btn btn-primary btn-round " href="https://my.globinc.com/auth/register" style="font-size:15px; margin-bottom: 10px;">зареєструватися</a>
                                 <a class="btn btn-primary btn-thin btn-outline btn-auto btn-primary btn-round no-change " href="{{asset('../pdf/Globinc.pdf')}}"  target="_blank" style="font-size:15px; margin-bottom: 10px;">скачати презентацію</a>
@@ -32,7 +32,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
                         <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Скоро старт проекту</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/05" data-day-text="Днів"   data-hour-text="Годин" data-min-text="Хвилин" data-sec-text="Секунд"></div>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/17" data-day-text="Днів"   data-hour-text="Годин" data-min-text="Хвилин" data-sec-text="Секунд"></div>
                     </div>
                 </div>
             </div>
@@ -246,7 +246,7 @@
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">Перша виплата</div>
-                                            <div class="mt-apc__li-v" data-profit-calc="binary_bonus"><span  id="beginningOfWork">18</span> дней</div>
+                                            <div class="mt-apc__li-v" data-profit-calc="binary_bonus"><span  id="beginningOfWork">18</span> днів</div>
                                         </div>
                                         <div class="mt-apc__li">
                                             <div class="mt-apc__li-k">Мінімальна сума</div>
@@ -351,7 +351,7 @@
                             <div class="nk-block-text pdb-r">
                                 <h2 class="title title-thin animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">ІНСТРУКЦІЯ ВИКОРИСТАННЯ <span style="color: white; font-weight: 900;">Globinc</span><span  style="color: white; "></span></h2>
                                 <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".2" style="visibility: visible; animation-delay: 0.2s;">Для участі в програмі користувач повинен здійснити реєстрацію в особистому кабінеті, вказавши там ПІБ, номер телефону, поштову адресу і реферальний код, після чого необхідно верифікувати пошту.</p>
-                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".3" style="visibility: visible; animation-delay: 0.3s;">Пройдіть в розділ «рахунки», виберіть підрозділ «бонусний рахунок». В даному розділі необхідно згенерувати свій особистої номер кріптогаманця, на який ви зможете відправити кріптовалюту.</p>
+                                <p class="animated fadeInUp" data-animate="fadeInUp" data-delay=".3" style="visibility: visible; animation-delay: 0.3s;">Пройдіть в розділ «рахунки», виберіть підрозділ «бонусний рахунок». В даному розділі необхідно згенерувати свій особистої номер криптогаманця, на який ви зможете відправити криптовалюту.</p>
                             </div><!-- .section-head @e -->
                             <div class="row gutter-vr-20px flex-wrap">
                                 <div class="col-sm-6">
@@ -402,7 +402,86 @@
             </div>
 
         </section>
-        <!-- // -->
+
+        <section class="section section-team ">
+            <div class="container">
+
+                <!-- Section Head @s -->
+                <div class="section-head text-center wide-auto-sm">
+                    <h2 class="title title-lg title-dark">Як спостерігати за результатами торгів штучного інтелекту?</h2>
+                    <p>Наш користувальницький інтерфейс торгівлі в реальному часі доступний в MetaTrade 5.
+                    </p>
+                </div><!-- .section-head @e -->
+                <div class="nk-block">
+                    <div class="row align-items-center justify-content-between gutter-vr-40px">
+                        <div class="col-lg-5">
+                            <ul class="nav tab-nav tab-nav-s3 tab-nav-vr mr-lg-3">
+                                <li><a  class="active" data-toggle="tab" href="#tab-1-2" class="">
+                                        <h5 class="title-md">Поповнення торгового рахунку</h5>
+                                        <p>Унікальність проекту в тому що після поповнення рахунку ви маєте можливість стежити за торгівлею в режимі реального часу, перевіряти свої торгові угоди, підраховувати прибуток, аналізувати дії штучного інтелекту.
+                                        </p>
+                                    </a></li>
+                                <li><a data-toggle="tab" href="#tab-1-3" class="">
+                                        <h5 class="title-md">Вхід в MetaTrade 5</h5>
+                                        <p>Скачайте на ваш пристрій MT5, вкажіть логін і пароль, який вам прийшов на пошту при реєстрації. Кожен клієнт компанії Globinc має можливість безкоштовно використовувати кращі інструменти для аналізу фондових ринків.
+                                        </p>
+                                    </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="tab-content">
+                                <div class="tab-pane fade active show" id="tab-1-2">
+                                    <div class="nk-block-screen">
+                                        <img class="nk-block-screen-large" src="{{asset('images/app-screens/put.png')}}" alt="" style="border: none !important;">
+                                        <img class="nk-block-screen-small animated fadeInUp" data-animate="fadeInUp" data-delay=".3" src="{{asset('images/app-screens/put2.png')}}" alt="" style="visibility: visible; animation-delay: 0.3s; border: none !important;">
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="tab-1-3">
+                                    <div class="nk-block-screen">
+                                        <img class="nk-block-screen-large" src="{{asset('images/app-screens/mt5little.png')}}" alt="" style="border: none !important;">
+                                        <img class="nk-block-screen-small animated fadeInUp" data-animate="fadeInUp" data-delay=".3" src="{{asset('images/app-screens/iphone_main.png')}}" alt="" style="visibility: visible; animation-delay: 0.3s; border: none !important;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .row -->
+                </div>
+
+            </div>
+        </section>
+
+        <section class="section section-partners " id="partners">
+            <div class="container">
+                <!-- Section Head @s -->
+                <div class="section-head text-center wide-auto-xs">
+                    <h2 class="title title-lg title-dark">Завантажити MetaTrade 5</h2>
+                    <p></p>
+                </div><!-- .section-head @e -->
+                <!-- Block @s -->
+                <div class="nk-block block-partners card" style="background-image: linear-gradient(to right, #0f1932 0%, #202b47 100%) !important;">
+                    <div class="row align-items-center">
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-windows"></em>
+                            <a href="https://download.mql5.com/cdn/web/webears.ltd/mt5/webears5setup.exe" class="btn btn-outline btn-dark btn-md">Windows</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-apple"></em>
+                            <a href="https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/MetaTrader5.dmg" class="btn btn-outline btn-dark btn-md">Mac OS</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-android"></em>
+                            <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=uk&referrer=ref_id%3d5192679640768859787" class="btn btn-outline btn-dark btn-md">Android</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-apple"></em>
+                            <a href="https://apps.apple.com/gb/app/metatrader-5-forex-stocks/id413251709" class="btn btn-outline btn-dark btn-md">IOS</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Block @e -->
+            </div>
+
+        </section>
         <section class="section" id="platform">
 
             <div class="container">
@@ -578,7 +657,7 @@
                                 <div class="progress-point" data-point="25">
                                     СТАРТ КОМПАНІЇ</div>
                                 <div class="progress-point" data-point="55">СТАЛИЙ РОЗВИТОК</div>
-                                <div class="progress-point" data-point="85">КРІПТО АКАДЕМІЯ</div>
+                                <div class="progress-point" data-point="85">КРИПТО АКАДЕМІЯ</div>
                             </div>
                         </div>
                     </div>
@@ -622,7 +701,7 @@
                         </div>
                         <div class="col-xxl col-lg-6">
                             <ul class="chart-data-s2 row" data-canvas="token-distribution" data-canvas-type="pie" data-border-color="#0f1932">
-                                <li class="col-sm-8" data-color="#1f2e4d" data-color-hover="#dabd75" data-label="Фонд захисту дітей" data-title="Фонд захисту дітей" data-subtitle="(более $1 млн.)" data-amount="45"></li>
+                                <li class="col-sm-8" data-color="#1f2e4d" data-color-hover="#dabd75" data-label="Фонд захисту дітей" data-title="Фонд захисту дітей" data-subtitle="(більше $1 млн.)" data-amount="45"></li>
                                 <li class="col-sm-8" data-color="#1f2e4d" data-color-hover="#dabd75" data-label="Підтримка людей з обмеженими можливостями" data-title="Підтримка людей з обмеженими можливостями" data-subtitle="($0.52 млн.)" data-amount="25"></li>
                                 <li class="col-sm-6" data-color="#1f2e4d" data-color-hover="#dabd75" data-label="Боротьба зі зміною клімату" data-title="Боротьба зі зміною клімату" data-subtitle="(0.16 млн.)" data-amount="8"></li>
                                 <li class="col-sm-6" data-color="#1f2e4d" data-color-hover="#dabd75" data-label="Захист навколишнього середовища і землі" data-title="Захист навколишнього середовища і землі" data-subtitle="(0.25 млн.)" data-amount="12"></li>
@@ -784,10 +863,10 @@
                                             </div>
                                         </div>
                                         <div class="accordion-item accordion-item-s3">
-                                            <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-5">Як купити криптовалюта?<span class="accordion-icon"></span></h5>
+                                            <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-5">Як купити криптовалюту?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-5" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>В даний час в світі існує безліч варіантів як придбати кріптовалюту, наприклад через популярні платіжні системи Пейєра, або крипто біржі. Якщо вам важко освоїти онлайн способи покупки крипто валюти то можна скористатися обмінними пунктами. Крім того, в системі передбачена функція внутрішнього перекладу, тому ви можете поповнити баланс через «платіжного агента» (клієнта з поповненим балансом, який зможе вам зі свого рахунку поповнити баланс ».
+                                                    <p>В даний час в світі існує безліч варіантів як придбати криптовалюту, наприклад через популярні платіжні системи Пейєра, або крипто біржі. Якщо вам важко освоїти онлайн способи покупки крипто валюти то можна скористатися обмінними пунктами. Крім того, в системі передбачена функція внутрішнього перекладу, тому ви можете поповнити баланс через «платіжного агента» (клієнта з поповненим балансом, який зможе вам зі свого рахунку поповнити баланс ».
 
                                                     </p>
                                                 </div>
@@ -797,7 +876,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-2-6">Процес депозиту і виведення?<span class="accordion-icon"></span></h5>
                                             <div id="acc-2-6" class="collapse" data-parent="#acc-2">
                                                 <div class="accordion-content">
-                                                    <p>Для поповнення свого балансу, в першу чергу треба зареєструватися в особистому кабінеті, ознайомитися з договором оферти, і потвердеть згоду з ним, після чого пройти в розділ «рахунки», вибрати там підрозділ «бонусний рахунок». В даному розділі необхідно згенерувати свій особистої номер крипто гаманця, на який ви зможете відправити відповідну крипто валюту. По приходу крипто валюти на даний гаманець, баланс автоматично поповнюється відповідно до ринкового курсу. Поповнюваний рахунок не є торговим, тому треба здійснити переклад на торговий рахунок надійшли грошові кошти.
+                                                    <p>Для поповнення свого балансу, в першу чергу треба зареєструватися в особистому кабінеті, ознайомитися з договором оферти, і надати згоду з ним, після чого пройти в розділ «рахунки», вибрати там підрозділ «бонусний рахунок». В даному розділі необхідно згенерувати свій особистої номер крипто гаманця, на який ви зможете відправити відповідну крипто валюту. По приходу крипто валюти на даний гаманець, баланс автоматично поповнюється відповідно до ринкового курсу. Поповнюваний рахунок не є торговим, тому треба здійснити переклад на торговий рахунок надійшли грошові кошти.
                                                         Для виведення необхідно в розділі «бонусний рахунок» натиснути кнопку висновок і вказати номер свого крипто гаманця.
                                                     </p>
                                                 </div>
@@ -811,7 +890,7 @@
                                             <h5 class="accordion-title accordion-title-sm" data-toggle="collapse" data-target="#acc-4-1">Як платформа заробляє гроші?<span class="accordion-icon"></span></h5>
                                             <div id="acc-4-1" class="collapse show" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Це напевно найважливіше питання. Компанія заробляє гроші на різниці вартості кріптовалют на світовому ринку, використовуючи власні технологічні розробки в області штучного інтелекту, машинного навчання, сполученого з використанням поведінкового аналізу трейдерів і постійного моніторингу соціальних мереж осіб, які формують думку людей. В даний час, наша компанія здійснює патентування даної технології, для використання її в хедж фондах.</p>
+                                                    <p>Це напевно найважливіше питання. Компанія заробляє гроші на різниці вартості криптовалют на світовому ринку, використовуючи власні технологічні розробки в області штучного інтелекту, машинного навчання, сполученого з використанням поведінкового аналізу трейдерів і постійного моніторингу соціальних мереж осіб, які формують думку людей. В даний час, наша компанія здійснює патентування даної технології, для використання її в хедж фондах.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -824,10 +903,10 @@
                                             </div>
                                         </div>
                                         <div class="accordion-item accordion-item-s3">
-                                            <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-3">Чому ваша компанія торгує саме кріптовалютами?<span class="accordion-icon"></span></h5>
+                                            <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-3">Чому ваша компанія торгує саме крипто валютами?<span class="accordion-icon"></span></h5>
                                             <div id="acc-4-3" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Останнім часом ринок кріптовалют сильно виріс, його капіталізація перевищила $ 2 трлн, передові американські інвест будинки створили підрозділи з торгівлі кріптовалютами такі як JP Morgan Chase, Goldman Sacks, Bank of America, популярність біткіона привела до його використання такими платіжними системами, як Pay Pall, автовиробник тесла, став приймати біткоіни в якості оплати за автомобілі. Легалізація крипто валют у всьому світі підвищує ліквідність ринку кріптовалют і дозволяє торгувати великими обсягами і отримувати більший профіт.</p>
+                                                    <p>Останнім часом ринок крипто валют сильно виріс, його капіталізація перевищила $ 1 трлн., передові американські інвест будинки створили підрозділи з торгівлі крипто валютами такі як JP Morgan Chase, Goldman Sacks, Bank of America, популярність біткіона привела до його використання такими платіжними системами, як Pay Pall, автовиробник тесла, став приймати біткоіни в якості оплати за автомобілі. Легалізація крипто валют у всьому світі підвищує ліквідність ринку криптовалют і дозволяє торгувати великими обсягами і отримувати більший профіт.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -835,7 +914,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-4">AI торгує тільки біткоінами?<span class="accordion-icon"></span></h5>
                                             <div id="acc-4-4" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Ні, торгівля здійснюється будь-яким кріптоактивом в залежності від ринкової кон'юнктури.</p>
+                                                    <p>Ні, торгівля здійснюється будь-яким крипто активом в залежності від ринкової кон'юнктури.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -843,15 +922,15 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-5">Якщо AI такий розумний, то чому ви не торгуєте на фондовому ринку, де ліквідність ринку максимальна і немає проблем в позикових коштах?<span class="accordion-icon"></span></h5>
                                             <div id="acc-4-5" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Для того що б наша торгова стратегія працювала коректно, нам потрібна велика волатильність ціни активу, на фондовому ринку це рідкість. Крім того, у акцій є додаткові точки невизначеності ціни, наприклад вихід звітності або економічні непередбачувані фактори, як і політичні рішення щодо компаній. У кіиптовалют всього цього немає, що дозволяє нам більш стабільно здійснювати торгові операції з прогнозованим результатом.</p>
+                                                    <p>Для того що б наша торгова стратегія працювала коректно, нам потрібна велика волатильність ціни активу, на фондовому ринку це рідкість. Крім того, у акцій є додаткові точки невизначеності ціни, наприклад вихід звітності або економічні непередбачувані фактори, як і політичні рішення щодо компаній. У криптовалют всього цього немає, що дозволяє нам більш стабільно здійснювати торгові операції з прогнозованим результатом.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="accordion-item accordion-item-s3">
-                                            <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-6">На якому ринку кріптовалют ви торгуєте? <span class="accordion-icon"></span></h5>
+                                            <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-6">На якому ринку криптовалют ви торгуєте? <span class="accordion-icon"></span></h5>
                                             <div id="acc-4-6" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Краса кріптовалют в тому, що люди не прив'язані до певного майданчику і можуть в лічені хвилини перекидати активи з однієї торгової площадки на іншу, якщо того вимагає торгова ситуація. Але тим не менше ми співпрацюємо з 12 основними торговими майданчиками і постачальниками ліквідності угод такими як: Binance, Binance Futures, Currency.com, EXMO, Payeer Exchange, ByBit, Bitmex, Cex.io, Free2ex, Huobi, FTX, OKEx.</p>
+                                                    <p>Краса криптовалют в тому, що люди не прив'язані до певного майданчику і можуть в лічені хвилини перекидати активи з однієї торгової площадки на іншу, якщо того вимагає торгова ситуація. Але тим не менше ми співпрацюємо з 12 основними торговими майданчиками і постачальниками ліквідності угод такими як: Binance, Binance Futures, Currency.com, EXMO, Payeer Exchange, ByBit, Bitmex, Cex.io, Free2ex, Huobi, FTX, OKEx.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -860,7 +939,7 @@
                                             <div id="acc-4-7" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
                                                     <p>
-                                                        Тут все дуже легко, всі платіжні системи мають безліч обмежень для різних країн, зокрема для транскордонних платежів, крім того платіжні системи можуть самостійно блокувати користувачів і диктувати свої умови. Таких обмежень немає у кріптовалют, це справжня свобода. Як свобода волі, що ти робиш зі своїми активами так і свобода переказів. При цьому, ми як  компанія яка береже грошв, не хочемо віддавати ваші і наші гроші за облуживание платіжних систем.
+                                                        Тут все дуже легко, всі платіжні системи мають безліч обмежень для різних країн, зокрема для транскордонних платежів, крім того платіжні системи можуть самостійно блокувати користувачів і диктувати свої умови. Таких обмежень немає у криптовалют, це справжня свобода. Як свобода волі, що ти робиш зі своїми активами так і свобода переказів. При цьому, ми як  компанія яка береже гроші, не хочемо віддавати ваші і наші гроші за обсуговування платіжних систем.
                                                         Ви напевно не знали що платіжні системи беруть за транзакції по 4 відсотки, і за введення і виведення іноді відсотки доходять до 10. Ми звичайно можемо впровадити такі рішення, але тільки за ваш рахунок. Ми думаємо, що нікому це не цікаво, тому що ми за профіт і максимально оптимізуємо всі бізнес процеси.</p>
                                                 </div>
                                             </div>
@@ -869,7 +948,7 @@
                                             <h5 class="accordion-title accordion-title-sm collapsed" data-toggle="collapse" data-target="#acc-4-8">Де знаходиться головний офіс компанії?<span class="accordion-icon"></span></h5>
                                             <div id="acc-4-8" class="collapse" data-parent="#acc-4">
                                                 <div class="accordion-content">
-                                                    <p>Наша компанія не має головний офісів, так як пандемія показала безпідставність даного бізнес рішення, на період локдаунов наша компанія роз'їхалася буквально по всіх частинах світу, програмісти працюють країнах СНД і Європи, фахівці з штучного інтелекту проживають в Нью Йорку і Лос Анджелесі, маркетологи і дизайнери облюбували теплі творчі країни і ми заохочуємо це. Наша команда в істину багатонаціональна і конфесійна і ми пишаємося цим, так як наша компанія це міжнаціональний проект фінансової свободи для всіх.</p>
+                                                    <p>Наша компанія не має головний офісів, так як пандемія показала безпідставність даного бізнес рішення, на період локдаунів наша компанія роз'їхалася буквально по всіх частинах світу, програмісти працюють країнах СНД і Європи, фахівці з штучного інтелекту проживають в Нью Йорку і Лос Анджелесі, маркетологи і дизайнери облюбували теплі творчі країни і ми заохочуємо це. Наша команда в істину багатонаціональна і конфесійна і ми пишаємося цим, так як наша компанія це міжнаціональний проект фінансової свободи для всіх.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -882,79 +961,5 @@
             </div>
 
         </section>
-{{--        <section class="section" id="contact">--}}
-
-{{--            <div class="container">--}}
-{{--                <!-- Block @s -->--}}
-{{--                <div class="nk-block nk-block-contact">--}}
-{{--                    <div class="row justify-content-between align-items-center gutter-vr-50px">--}}
-{{--                        <div class="col-lg-6">--}}
-{{--                            <div class="nk-block-text">--}}
-{{--                                <div class="nk-block-text-head">--}}
-{{--                                    <h2 class="title title-lg ttu">Свяжитесь с нами</h2>--}}
-{{--                                    <p>Мы всегда открыты к вопросам, которые вы задаете нашей команде. Если вы хотите с нами связаться, заполните форму ниже. Кто-то из нашей команды свяжется с вами в ближайшее время. </p>--}}
-{{--                                </div>--}}
-{{--                                <form method="POST" action="{{ route('massages.create') }}" >--}}
-{{--                                    @csrf--}}
-{{--                                    <div class="row">--}}
-{{--                                        <div class="col-sm-6">--}}
-{{--                                            <div class="field-item">--}}
-{{--                                                <label class="field-label ttu">Твое имя</label>--}}
-{{--                                                <div class="field-wrap">--}}
-{{--                                                    <input name="name" id="name" placeholder="Представьтесь " type="text" class="input-bordered required">--}}
-{{--                                                </div>--}}
-{{--                                            </div>--}}
-{{--                                        </div>--}}
-{{--                                        <div class="col-sm-6">--}}
-{{--                                            <div class="field-item">--}}
-{{--                                                <label class="field-label ttu">Ваша электронная почта</label>--}}
-{{--                                                <div class="field-wrap">--}}
-{{--                                                    <input name="email" id="email" placeholder="Кому мы отвечаем" type="email" class="input-bordered required email">--}}
-{{--                                                </div>--}}
-{{--                                            </div>--}}
-{{--                                        </div>--}}
-{{--                                    </div>--}}
-{{--                                    <div class="field-item">--}}
-{{--                                        <label class="field-label ttu">Ваше сообщение </label>--}}
-{{--                                        <div class="field-wrap">--}}
-{{--                                            <textarea name="massages" id="massages" placeholder="Оставьте здесь свой вопрос или комментарий " class="input-bordered input-textarea required"></textarea>--}}
-{{--                                        </div>--}}
-{{--                                    </div>--}}
-{{--                                    <input type="text" class="d-none" name="form-anti-honeypot" value="">--}}
-{{--                                    <div class="row">--}}
-{{--                                        <div class="col-sm-5 text-right">--}}
-{{--                                            <button type="submit" class="btn btn-round btn-primary ">ОТПРАВИТЬ</button>--}}
-{{--                                        </div>--}}
-{{--                                        <div class="col-sm-7 order-sm-first">--}}
-{{--                                            <div class="form-results"></div>--}}
-{{--                                        </div>--}}
-{{--                                    </div>--}}
-{{--                                </form>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                        <div class="col-lg-6  order-lg-first">--}}
-{{--                            <!-- TradingView Widget BEGIN -->--}}
-{{--                            <div class="tradingview-widget-container">--}}
-{{--                                <div class="tradingview-widget-container__widget"></div>--}}
-
-{{--                                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>--}}
-{{--                                    {--}}
-{{--                                        "interval": "1m",--}}
-{{--                                        "width": "370",--}}
-{{--                                        "isTransparent": true,--}}
-{{--                                        "height": "300",--}}
-{{--                                        "symbol": "COINBASE:BTCUSD",--}}
-{{--                                        "showIntervalTabs": true,--}}
-{{--                                        "locale": "ru",--}}
-{{--                                        "colorTheme": "dark"--}}
-{{--                                    }--}}
-{{--                                </script>--}}
-{{--                            </div>--}}
-{{--                            <!-- TradingView Widget END -->--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div><!-- .block @e -->--}}
-{{--            </div>--}}
-{{--        </section>--}}
     </main>
 @endsection

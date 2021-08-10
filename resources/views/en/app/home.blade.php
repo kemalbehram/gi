@@ -31,7 +31,7 @@
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                     <div class="status-countdown float-sm-right">
                         <h6 class="title title-xxs tc-default status-title ttu" style="text-align: center !important;">Starting the project wery soon</h6>
-                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/05" data-day-text="Days" data-Hours-text="Hours" data-min-text="Minutes" data-sec-text="Seconds"></div>
+                        <div class="countdown justify-content-center justify-content-sm-start countdown-s3 countdown-s3-alt" data-date="2021/08/17" data-day-text="Days" data-Hours-text="Hours" data-min-text="Minutes" data-sec-text="Seconds"></div>
                     </div>
                 </div>
             </div>
@@ -385,6 +385,86 @@
             </div>
         </section>
         <!-- // -->
+        <section class="section section-team ">
+            <div class="container">
+
+                <!-- Section Head @s -->
+                <div class="section-head text-center wide-auto-sm">
+                    <h2 class="title title-lg title-dark">How to monitor AI trading results?</h2>
+                    <p>Our live trading user interface is available in MetaTrade 5.
+                    </p>
+                </div><!-- .section-head @e -->
+                <div class="nk-block">
+                    <div class="row align-items-center justify-content-between gutter-vr-40px">
+                        <div class="col-lg-5">
+                            <ul class="nav tab-nav tab-nav-s3 tab-nav-vr mr-lg-3">
+                                <li><a  class="active" data-toggle="tab" href="#tab-1-2" class="">
+                                        <h5 class="title-md">
+                                            Funding a trading account</h5>
+                                        <p>The uniqueness of the project is that after replenishing your account, you have the opportunity to monitor trading in real time, check your trade transactions, calculate profits, and analyze the actions of artificial intelligence.
+                                        </p>
+                                    </a></li>
+                                <li><a data-toggle="tab" href="#tab-1-3" class="">
+                                        <h5 class="title-md">Login to MetaTrade 5</h5>
+                                        <p>Download MT5 to your device, enter the username and password that you received by email during registration. Every Globinc client has the opportunity to use the best stock market analysis tools for free.
+                                        </p>
+                                    </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="tab-content">
+                                <div class="tab-pane fade active show" id="tab-1-2">
+                                    <div class="nk-block-screen">
+                                        <img class="nk-block-screen-large" src="{{asset('images/app-screens/put.png')}}" alt="" style="border: none !important;">
+                                        <img class="nk-block-screen-small animated fadeInUp" data-animate="fadeInUp" data-delay=".3" src="{{asset('images/app-screens/put2.png')}}" alt="" style="visibility: visible; animation-delay: 0.3s; border: none !important;">
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="tab-1-3">
+                                    <div class="nk-block-screen">
+                                        <img class="nk-block-screen-large" src="{{asset('images/app-screens/mt5little.png')}}" alt="" style="border: none !important;">
+                                        <img class="nk-block-screen-small animated fadeInUp" data-animate="fadeInUp" data-delay=".3" src="{{asset('images/app-screens/iphone_main.png')}}" alt="" style="visibility: visible; animation-delay: 0.3s; border: none !important;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .row -->
+                </div>
+
+            </div>
+        </section>
+
+        <section class="section section-partners " id="partners">
+            <div class="container">
+                <!-- Section Head @s -->
+                <div class="section-head text-center wide-auto-xs">
+                    <h2 class="title title-lg title-dark">Download MetaTrade 5</h2>
+                    <p></p>
+                </div><!-- .section-head @e -->
+                <!-- Block @s -->
+                <div class="nk-block block-partners card" style="background-image: linear-gradient(to right, #0f1932 0%, #202b47 100%) !important;">
+                    <div class="row align-items-center">
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-windows"></em>
+                            <a href="https://download.mql5.com/cdn/web/webears.ltd/mt5/webears5setup.exe" class="btn btn-outline btn-dark btn-md">Windows</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-apple"></em>
+                            <a href="https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/MetaTrader5.dmg" class="btn btn-outline btn-dark btn-md">Mac OS</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-android"></em>
+                            <a href="https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=uk&referrer=ref_id%3d5192679640768859787" class="btn btn-outline btn-dark btn-md">Android</a>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 download-option">
+                            <em class="icon fab fa-apple"></em>
+                            <a href="https://apps.apple.com/gb/app/metatrader-5-forex-stocks/id413251709" class="btn btn-outline btn-dark btn-md">IOS</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Block @e -->
+            </div>
+
+        </section>
         <section class="section" id="platform">
             <div class="container">
                 <div class="row justify-content-center text-center">

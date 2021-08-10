@@ -114,10 +114,10 @@
                                     <table cellpadding="0" cellspacing="0" border="0">
                                       <thead>
                                         <tr>
-                                           <th style="width:50%; color:#fff;">Бизнес-партнёр</th>
-                                            <th style="width:25%; color:#fff;">Начисление,$</th>
-                                            <th style="width:10%; color:#fff;">%</th>
-                                            <th style="width:15%; color:#fff;">Премия,$</th>
+                                           <th style="width:50%; color:#fff;">Ранги</th>
+                                            <th style="width:25%; color:#fff;">Сумма покупок сети</th>
+                                            <th style="width:10%; color:#fff;">% от покупок сети</th>
+                                            <th style="width:15%; color:#fff;">Премии</th>
                                         </tr>
                                       </thead>
                                     </table>
