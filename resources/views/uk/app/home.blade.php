@@ -409,7 +409,7 @@
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-sm">
                     <h2 class="title title-lg title-dark">Як спостерігати за результатами торгів штучного інтелекту?</h2>
-                    <p>Наш користувальницький інтерфейс торгівлі в реальному часі доступний в MetaTrade 5.
+                    <p>Наш користувальницький інтерфейс торгівлі в реальному часі доступний в MetaTrader 5.
                     </p>
                 </div><!-- .section-head @e -->
                 <div class="nk-block">
@@ -454,7 +454,7 @@
             <div class="container">
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-xs">
-                    <h2 class="title title-lg title-dark">Завантажити MetaTrade 5</h2>
+                    <h2 class="title title-lg title-dark">Завантажити MetaTrader 5</h2>
                     <p></p>
                 </div><!-- .section-head @e -->
                 <!-- Block @s -->

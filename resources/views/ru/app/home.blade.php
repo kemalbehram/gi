@@ -408,7 +408,7 @@
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-sm">
                     <h2 class="title title-lg title-dark">Как наблюдать за результатами торгов искусственного интеллекта? </h2>
-                    <p>Наш пользовательский интерфейс торговли в реальном времени доступен в MetaTrade 5.
+                    <p>Наш пользовательский интерфейс торговли в реальном времени доступен в MetaTrader 5.
                     </p>
                 </div><!-- .section-head @e -->
                 <div class="nk-block">
@@ -421,7 +421,7 @@
                                         </p>
                                     </a></li>
                                 <li><a data-toggle="tab" href="#tab-1-3" class="">
-                                        <h5 class="title-md">Вход в MetaTrade 5</h5>
+                                        <h5 class="title-md">Вход в MetaTrader 5</h5>
                                         <p>Скачайте на ваше устройство MT5, укажите логин и пароль, который вам пришел на почту при регистрации. Каждый клиент компании Globinc имеет возможность бесплатно использовать лучшие инструменты для анализа фондовых рынков.
                                         </p>
                                     </a></li>
@@ -453,7 +453,7 @@
             <div class="container">
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-xs">
-                    <h2 class="title title-lg title-dark">Скачать MetaTrade 5</h2>
+                    <h2 class="title title-lg title-dark">Скачать MetaTrader 5</h2>
                     <p></p>
                 </div><!-- .section-head @e -->
                 <!-- Block @s -->

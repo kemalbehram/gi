@@ -393,7 +393,7 @@
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-sm">
                     <h2 class="title title-lg title-dark">如何監控AI交易結果？ </h2>
-                    <p>我們的實時交易用戶界面在 MetaTrade 5 中可用。
+                    <p>我們的實時交易用戶界面在 MetaTrader 5 中可用。
                     </p>
                 </div><!-- .section-head @e -->
                 <div class="nk-block">
@@ -406,7 +406,7 @@
                                         </p>
                                     </a></li>
                                 <li><a data-toggle="tab" href="#tab-1-3" class="">
-                                        <h5 class="title-md">登錄 MetaTrade 5</h5>
+                                        <h5 class="title-md">登錄 MetaTrader 5</h5>
                                         <p>將 MT5 下載到您的設備，輸入您在註冊時通過電子郵件收到的用戶名和密碼。每個 Globinc 客戶都有機會免費使用最好的股票市場分析工具。
                                         </p>
                                     </a></li>
@@ -438,7 +438,7 @@
             <div class="container">
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-xs">
-                    <h2 class="title title-lg title-dark">下載 MetaTrade 5</h2>
+                    <h2 class="title title-lg title-dark">下載 MetaTrader 5</h2>
                     <p></p>
                 </div><!-- .section-head @e -->
                 <!-- Block @s -->

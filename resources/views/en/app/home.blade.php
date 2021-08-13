@@ -391,7 +391,7 @@
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-sm">
                     <h2 class="title title-lg title-dark">How to monitor AI trading results?</h2>
-                    <p>Our live trading user interface is available in MetaTrade 5.
+                    <p>Our live trading user interface is available in MetaTrader 5.
                     </p>
                 </div><!-- .section-head @e -->
                 <div class="nk-block">
@@ -405,7 +405,7 @@
                                         </p>
                                     </a></li>
                                 <li><a data-toggle="tab" href="#tab-1-3" class="">
-                                        <h5 class="title-md">Login to MetaTrade 5</h5>
+                                        <h5 class="title-md">Login to MetaTrader 5</h5>
                                         <p>Download MT5 to your device, enter the username and password that you received by email during registration. Every Globinc client has the opportunity to use the best stock market analysis tools for free.
                                         </p>
                                     </a></li>
@@ -437,7 +437,7 @@
             <div class="container">
                 <!-- Section Head @s -->
                 <div class="section-head text-center wide-auto-xs">
-                    <h2 class="title title-lg title-dark">Download MetaTrade 5</h2>
+                    <h2 class="title title-lg title-dark">Download MetaTrader 5</h2>
                     <p></p>
                 </div><!-- .section-head @e -->
                 <!-- Block @s -->
